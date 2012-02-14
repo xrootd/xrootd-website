@@ -1,0 +1,153 @@
+/* CSS Document
+   Template Title: Uncomplicated
+   Author: J David Macor
+   URL: http://www.jdavidmacor.com
+
+   Modified by: Lukasz Janyst <ljanyst@cern.ch>
+
+*/
+
+/* Main Body */
+body {
+	font-family: verdana, sans-serif;
+	font-size: small;
+	background: #8596aa;
+	}
+	
+#container {
+	width: 80%;
+	padding: 2em;
+	padding-bottom: 0.5em;
+	border: 1px solid #336299;
+	background: #fff;
+	margin: 0 auto;
+	}
+	
+/* Header */
+#header {
+	width: 60%;
+	color: #336299;
+	font-weight: bold;
+	border-left: 4px solid #336299;
+	border-right: 4px solid #336299;
+	margin: 0 auto;
+	margin-bottom: 0.5em;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	letter-spacing: 0.4em;
+	text-align: center;
+	}
+
+/* Navigation */
+#tabnav	{
+	height: 20px;
+	margin: 0;
+	padding-left: 10px;
+	background: url(images/tab_bottom.gif) repeat-x bottom;
+	}
+
+#tabnav li {
+	margin: 0; 
+	padding: 0;
+	display: inline;
+	list-style-type: none;
+	}
+	
+#tabnav a:link, #tabnav a:visited {
+	float: left;
+	background: #eef4f9;
+	font-size: 10px;
+	line-height: 14px;
+	font-weight: bold;
+	padding: 2px 10px 2px 10px;
+	margin-right: 4px;
+	border: 1px solid #336299;
+	text-decoration: none;
+	color: #336299;
+	}
+
+#tabnav a:link.active, #tabnav a:visited.active	{
+	border-bottom: 1px solid #fff;
+	background: #fff;
+	color: #000;
+	}
+
+#tabnav a:hover	{
+	background: #fff;
+	}
+	
+/* Main Content */
+#content {
+	margin-top: 0.5px;
+	}
+	
+#content h2 {
+        color: #336299;
+	font-size: large;
+        text-decoration: underline;
+	}
+
+#content h3 {
+        color: #336299;
+	}
+	
+#content p {
+	font-size: small;
+	}
+	
+#content a, a:visited {
+	color: #666666;
+	text-decoration: underline;
+	}
+	
+#content a:hover {
+	color: #000000;
+	}
+
+
+#content pre {
+    border-left: 1px solid #336399;
+    border-right: 1px solid #336399;
+    border-top: 1px dashed #336399;
+    border-bottom: 1px dashed #336399;
+    padding: 0.5em;
+    font-size: normal;
+}
+
+#content table
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    border: 1px dashed #336399;
+}
+
+/*#content tr:nth-child(odd) {background: #CCC}*/
+#content tr:nth-child(even)
+{
+    background: #dde3e8;
+}
+
+#content th
+{
+    border-bottom: 1px solid #336399;
+}
+	
+/* footer */
+#footer {
+	color: #666;
+	text-align: center;
+	border-top: 1px solid #336299;
+	size: 11px;
+	margin-top: 30px;
+	margin-bottom: 0;
+	}
+	
+#footer a, a:visited {
+	color: #336299;
+	text-decoration: underline;
+	}
+	
+#footer a:hover {
+	color: #000000;
+	}

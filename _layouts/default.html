@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+                      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <link type="text/css" media="screen" rel="stylesheet" href="style.css" />
+  <title>{% if page.title %} {{ page.title }} | {% endif %} XRootD</title>
+</head>
+
+<body>
+
+  <div id="container">
+
+  <div id="header">
+    XRootD
+  </div>
+
+  <ul id="tabnav">
+    <li><a href="index.html"
+        {% if page.tab == "home" %} class="active" {% endif %}>
+        home</a></li>
+    <li><a href="dload.html"
+        {% if page.tab == "download" %} class="active" {% endif %}>
+        download</a></li>
+    <li><a href="docs.html"
+        {% if page.tab == "docs" %} class="active" {% endif %}>
+        docs</a></li>
+    <li><a href="contact.html"
+        {% if page.tab == "contact" %} class="active" {% endif %}>
+        contact</a></li>
+  </ul>
+
+  <div id="content">
+    {{ content }}
+  </div>
+
+  <div id="footer">
+    <p>
+      <a href="http://validator.w3.org/check?uri=referer">Valid XHTML 1.0</a> | Copyright &copy;
+      <a href="http://slac.stanford.edu/">SLAC</a>/<a href="http://cern.ch">CERN</a> | Design based on
+      <a href="http://www.oswd.org/design/information/id/3203">Uncomplicated</a>
+    </p>
+  </div>
+
+  </div>
+
+</body>
+
+</html>
