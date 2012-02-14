@@ -18,4 +18,5 @@ errors for the applictions constructed with the older versions of the library an
 prevent them from running, as opposed to crashing in an incontrollable way.
 
 More information on library versioning is available
-[here](http://www.usenix.org/publications/library/proceedings/als00/2000papers/papers/full_papers/browndavid/browndavid_html/).
+[here](http://www.usenix.org/publications/library/proceedings/als00/2000papers/papers/full_papers/browndavid/browndavid_html/)
+and [here](http://www.akkadia.org/drepper/dsohowto.pdf).
