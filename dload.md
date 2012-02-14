@@ -11,7 +11,7 @@ You can get the most recent source tree by cloning our main git repository:
 
     git clone http://xrootd.org//repo/xrootd.git
 
-or a [browsable](ttp://xrootd.cern.ch/repos/xrootd.git/) mirror at CERN:
+or a [browsable](http://xrootd.cern.ch/repos/xrootd.git/) mirror at CERN:
 
     git clone http://xrootd.cern.ch/repos/xrootd.git
 
