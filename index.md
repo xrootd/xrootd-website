@@ -28,8 +28,7 @@ Quick Links
    bugs
  * [Scalla-Intro.pdf](/papers/Scalla-Intro.pdf) - an overview of the xrootd
    system
- * [xrootd-3.1.1.tar.gz](/download/v3.1.1/xrootd-3.1.1.tar.gz) - the latest
-   version of the software
+ * {{ "" | latest_release_url }} - the latest version of the software
  * [Release Notes](/download/ReleaseNotes.html) - a list of significant changes
    between the releases
  * [cgit](http://xrootd.cern.ch/repos/xrootd.git) - repository browser
