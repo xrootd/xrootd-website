@@ -43,7 +43,8 @@ module Jekyll
       site = @context.registers[:site]
       lv   = site.config['latest_release']
       file = "download/v#{lv}/xrootd-#{lv}.tar.gz"
-      if File.exists?( "#{site.dest}/#{file}" )
+      siteRoot = site.config['site_root']
+      if File.exists?( "#{siteRoot}/#{file}" )
         "[xrootd-#{lv}.tar.gz](/#{file})"
       else
         "Archive file does not exist"
@@ -56,8 +57,9 @@ module Jekyll
     def tar_gz_files_table( input )
       site     = @context.registers[:site]
       lv       = site.config['latest_release_tar_gz']
+      siteRoot = site.config['site_root']
       path     = "download/v#{lv}"
-      fullPath = "#{site.dest}/#{path}"
+      fullPath = "#{siteRoot}/#{path}"
 
       if not File.exists?( fullPath ) or not File.directory?( fullPath )
         return "Archives not present"
