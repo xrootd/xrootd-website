@@ -32,3 +32,10 @@ Quick Links
  * [Release Notes](/download/ReleaseNotes.html) - a list of significant changes
    between the releases
  * [cgit](http://xrootd.cern.ch/repos/xrootd.git) - repository browser
+
+News
+----
+
+{% for post in site.posts %}
+ * \[{{ post.date | date_to_string }}\] [{{ post.title }}]({{ post.url }})
+{% endfor %}
