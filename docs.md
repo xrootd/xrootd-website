@@ -29,6 +29,7 @@ Presentations and papers
 
 |Date       |Files                                                                 |Description                                                       |
 |:---------:|:--------------------------------------------------------------------:|------------------------------------------------------------------|
+|20-Mar-2012|[html](https://twiki.grid.iu.edu/bin/view/SoftwareTeam/HowToInstallXrootd)|Basic XRootD setup HOWTO by Tanya Levshina|
 |12-Sep-2011|[pptx](/presentations/Atlas-T3-1109.pptx) [pdf](/presentations/Atlas-T3-1109.pdf)|Xrootd Roadmap (presented at Atlas T3 Meeting, University of Chicago).|
 |08-Mar-2011|[pptx-1](/presentations/OSGAHM_1103.Plenary.pptx) [pptx-2](/presentations/OSGAHM_1103.JointAC.pptx)|Xrootd Architectures (two versions), presentation by Andrew Hanushevsky at the OSG All Hands Meeting at Harvard.|
 |27-Nov-2010|[pptx](/presentations/CERN101129.pptx) [pdf](/presentations/CERN101129.pdf)|Xrootd Monitoring, presentation by Andrew Hanushevsky during ATLAS Software Week at CERN.|
