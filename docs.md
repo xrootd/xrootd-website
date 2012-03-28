@@ -22,7 +22,7 @@ Documentation
 |11-Jul-2011|[html](/doc/prod/frm_config.htm) [pdf](/doc/prod/frm_config.pdf)        |File Residency Manager Reference (3.1.0)                                      |
 |03-Dec-2011|[html](/doc/dev/frm_config.htm) [pdf](/doc/dev/frm_config.pdf)          |File Residency Manager Reference (git 3.1+)                                   |
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
-|14-Jul-2011|[html](/doc/prod/XRdv297.htm) [pdf](/doc/prod/XRdv297.pdf)              |XRootD Protocol Reference (Version 2.9.8)                                     |
+|28-Mar-2012|[html](/doc/prod/XRdv298.htm) [pdf](/doc/prod/XRdv298.pdf)              |XRootD Protocol Reference (Version 2.9.8)                                     |
 
 Presentations and papers
 ------------------------
