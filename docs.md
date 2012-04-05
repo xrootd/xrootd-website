@@ -14,6 +14,7 @@ Documentation
 |12-Dec-2011|[html](/doc/dev/xrd_config.htm) [pdf](/doc/dev/xrd_config.pdf)           |Scalla Xrd/XRootd Configuration Reference (git 3.1+).                         |
 |05-Oct-2011|[html](/doc/prod/ofs_config.htm) [pdf](/doc/prod/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (3.1.0)    |
 |08-Dec-2011|[html](/doc/dev/ofs_config.htm) [pdf](/doc/dev/ofs_config.pdf)          |Open File System &amp; Open Storage System Configuration Reference (git 3.1+) |
+|02-Apr-2012|[html](/doc/dev-3.3.0/ofs_config.htm) [pdf](/doc/dev-3.3.0/ofs_config.pdf)          |Open File System &amp; Open Storage System Configuration Reference (git 3.1+) |
 |06-Jun-2011|[html](/doc/prod/cms_config.htm) [pdf](/doc/prod/cms_config.pdf)        |Cluster Management Service Configuration Reference (3.1.0)                    |
 |27-Sep-2011|[html](/doc/prod/sec_config.htm) [pdf](/doc/prod/sec_config.pdf)        |Security Configuration Reference (3.1.0)                                      |
 |22-Feb-2012|[html](/doc/dev/sec_config.htm) [pdf](/doc/dev/sec_config.pdf)        |Security Configuration Reference (3.1.1)                                      |
