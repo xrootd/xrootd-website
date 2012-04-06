@@ -11,17 +11,16 @@ Documentation
 |:---------:|:----------------------------------------------------------------------:|------------------------------------------------------------------------------|
 |13-Nov-2010|[html](/doc/prod/Syntax_config.htm) [pdf](/doc/prod/Syntax_config.pdf)  |Configuration File Syntax                                                     |
 |27-Sep-2011|[html](/doc/prod/xrd_config.htm) [pdf](/doc/prod/xrd_config.pdf)        |Scalla Xrd/XRootd Configuration Reference (3.1.0)                             |
-|12-Dec-2011|[html](/doc/dev/xrd_config.htm) [pdf](/doc/dev/xrd_config.pdf)           |Scalla Xrd/XRootd Configuration Reference (git 3.1+).                         |
+|12-Dec-2011|[html](/doc/dev/xrd_config.htm) [pdf](/doc/dev/xrd_config.pdf)           |Scalla Xrd/XRootd Configuration Reference (git 3.2.0)                         |
 |05-Oct-2011|[html](/doc/prod/ofs_config.htm) [pdf](/doc/prod/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (3.1.0)    |
 |08-Dec-2011|[html](/doc/dev/ofs_config.htm) [pdf](/doc/dev/ofs_config.pdf)          |Open File System &amp; Open Storage System Configuration Reference (git 3.2.0) |
 |02-Apr-2012|[html](/doc/dev-3.3.0/ofs_config.htm) [pdf](/doc/dev-3.3.0/ofs_config.pdf)          |Open File System &amp; Open Storage System Configuration Reference (git 3.3.0) |
 |06-Jun-2011|[html](/doc/prod/cms_config.htm) [pdf](/doc/prod/cms_config.pdf)        |Cluster Management Service Configuration Reference (3.1.0)                    |
-|27-Sep-2011|[html](/doc/prod/sec_config.htm) [pdf](/doc/prod/sec_config.pdf)        |Security Configuration Reference (3.1.0)                                      |
-|22-Feb-2012|[html](/doc/dev/sec_config.htm) [pdf](/doc/dev/sec_config.pdf)        |Security Configuration Reference (3.1.1)                                      |
+|06-Apr-2012|[html](/doc/prod/sec_config.htm) [pdf](/doc/prod/sec_config.pdf)        |Security Configuration Reference (3.1.1)                                      |
 |05-Oct-2011|[html](/doc/prod/xrd_monitoring.htm) [pdf](/doc/prod/xrd_monitoring.pdf)|System Monitoring Reference (3.1.0)                                           |
-|14-Jan-2012|[html](/doc/dev/xrd_monitoring.htm) [pdf](/doc/dev/xrd_monitoring.pdf)  |System Monitoring Reference (git, 3.1+)                                       |
+|14-Jan-2012|[html](/doc/dev/xrd_monitoring.htm) [pdf](/doc/dev/xrd_monitoring.pdf)  |System Monitoring Reference (git, 3.2.0)                                       |
 |11-Jul-2011|[html](/doc/prod/frm_config.htm) [pdf](/doc/prod/frm_config.pdf)        |File Residency Manager Reference (3.1.0)                                      |
-|03-Dec-2011|[html](/doc/dev/frm_config.htm) [pdf](/doc/dev/frm_config.pdf)          |File Residency Manager Reference (git 3.1+)                                   |
+|03-Dec-2011|[html](/doc/dev/frm_config.htm) [pdf](/doc/dev/frm_config.pdf)          |File Residency Manager Reference (git 3.2.0)                                  |
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
 |28-Mar-2012|[html](/doc/prod/XRdv298.htm) [pdf](/doc/prod/XRdv298.pdf)              |XRootD Protocol Reference (Version 2.9.8)                                     |
 
