@@ -23,13 +23,14 @@ Documentation
 |03-Dec-2011|[html](/doc/dev/frm_config.htm) [pdf](/doc/dev/frm_config.pdf)          |File Residency Manager Reference (git 3.2.0)                                  |
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
 |28-Mar-2012|[html](/doc/prod/XRdv298.htm) [pdf](/doc/prod/XRdv298.pdf)              |XRootD Protocol Reference (Version 2.9.8)                                     |
-
+|20-Mar-2012|[html](https://twiki.grid.iu.edu/bin/view/SoftwareTeam/HowToInstallXrootd)|Basic XRootD setup HOWTO by Tanya Levshina|
 Presentations and papers
 ------------------------
 
 |Date       |Files                                                                 |Description                                                       |
 |:---------:|:--------------------------------------------------------------------:|------------------------------------------------------------------|
-|20-Mar-2012|[html](https://twiki.grid.iu.edu/bin/view/SoftwareTeam/HowToInstallXrootd)|Basic XRootD setup HOWTO by Tanya Levshina|
+|12-Apr-2012|[pdf](/presentations/20120412_architects_forum_new_xrootd.pdf)|The new XRootD client migration plans (LCG Architects Forum Meeting)|
+|02-Mar-2012|[pdf](/presentations/20120302_new_xrootd_client.pdf)|New XRootD client (CERN IT-DSS Group Meeting)|
 |12-Sep-2011|[pptx](/presentations/Atlas-T3-1109.pptx) [pdf](/presentations/Atlas-T3-1109.pdf)|Xrootd Roadmap (presented at Atlas T3 Meeting, University of Chicago).|
 |08-Mar-2011|[pptx-1](/presentations/OSGAHM_1103.Plenary.pptx) [pptx-2](/presentations/OSGAHM_1103.JointAC.pptx)|Xrootd Architectures (two versions), presentation by Andrew Hanushevsky at the OSG All Hands Meeting at Harvard.|
 |27-Nov-2010|[pptx](/presentations/CERN101129.pptx) [pdf](/presentations/CERN101129.pdf)|Xrootd Monitoring, presentation by Andrew Hanushevsky during ATLAS Software Week at CERN.|
