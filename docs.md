@@ -4,6 +4,12 @@ title:  Documentation and Presentations
 tab:    docs
 ---
 
+Upgrade information
+-------------------
+
+* [**Upgrading to 3.1.0 or higher**](/2012/04/19/migration_warning_3_1_0.html)
+
+
 Documentation
 -------------
 
