@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  Release candidate announcement - 3.2.0
+title:  Release announcement - 3.2.0
 ---
 
-Release candidate announcement - 3.2.0
---------------------------------------
+Release announcement - 3.2.0
+----------------------------
 
 The XRootD 3.2.0 release has been tagged. Please follow the links
 below for the source and the RPMs. Please note that the RPMs have been pushed
