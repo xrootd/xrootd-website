@@ -9,14 +9,14 @@ User support and bug reports
 
 You can contact the **xrootd-l** mailing list if you have any questions
 concerning the xrootd software. The archive of the list is available
-[here](http://www.slac.stanford.edu/cgi-bin/lwgate/XROOTD-L/archives/)
+[here](https://listserv.slac.stanford.edu/cgi-bin/wa?A0=XROOTD-L)
 . To subscribe to the list you should send a one-line email to
 **listserv@slac.stanford.edu** with the following line in the message
 body:
 
     SUBSCRIBE xrootd-l
 
-The bugs should be reported using the CERN Savannah setup accessible
+The <b>bugs</b> should be reported using the CERN Savannah setup accessible
 [here](https://savannah.cern.ch/bugs/?group=xrootd).
 
 The people responsible
