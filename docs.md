@@ -36,6 +36,8 @@ Presentations and papers
 
 |Date       |Files                                                                 |Description                                                       |
 |:---------:|:--------------------------------------------------------------------:|------------------------------------------------------------------|
+|21-May-2012|[pdf](/presentations/Slides_IPDPS12.pdf)|Scalla: Structured Cluster Architecture For Low Latency Access (Presentation IPDPS 2012, Shanghai)|
+|21-May-2012|[pdf](/papers/Scalla_IPDPS12.pdf)|Scalla: Structured Cluster Architecture For Low Latency Access (Paper IPDPS 2012, Shanghai)|
 |12-Apr-2012|[pdf](/presentations/20120412_architects_forum_new_xrootd.pdf)|The new XRootD client migration plans (LCG Architects Forum Meeting)|
 |02-Mar-2012|[pdf](/presentations/20120302_new_xrootd_client.pdf)|New XRootD client (CERN IT-DSS Group Meeting)|
 |12-Sep-2011|[pptx](/presentations/Atlas-T3-1109.pptx) [pdf](/presentations/Atlas-T3-1109.pdf)|Xrootd Roadmap (presented at Atlas T3 Meeting, University of Chicago).|
