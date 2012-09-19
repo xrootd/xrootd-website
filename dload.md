@@ -55,3 +55,12 @@ Binaries
 The binaries for the supported platforms are downloadable here:
 
 {{ "" | tar_gz_files_table }}
+
+Incremental builds
+------------------
+We build the repository commits incrementally and they are accessible via our
+TeamCity portal:
+
+<a href="https://teamcity-dss.cern.ch:8443/guestLogin.html?guest=1">
+<img src="images/logo_teamcity.gif" alt="TeamCity logo" width="160" height="40" />
+</a>
