@@ -10,7 +10,7 @@
 RUBYPATH=/afs/slac.stanford.edu/www/projects/scalla/vol1/website-gen/ruby-1.9.2
 GEMSPATH=/afs/slac.stanford.edu/www/projects/scalla/vol1/website-gen/gems
 GEMSREPO=/afs/slac.stanford.edu/www/projects/scalla/vol1/website-gen/gems-repo
-REPOPATH=/afs/slac.stanford.edu/www/projects/scalla/repo/xrootd-website.git
+REPOPATH=git://github.com/xrootd/xrootd-website.git
 WEBSITEDIR=/afs/slac.stanford.edu/www/projects/scalla
 
 #-------------------------------------------------------------------------------
