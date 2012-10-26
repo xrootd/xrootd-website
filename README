@@ -1,0 +1,6 @@
+To update the actual web pages onj the web server after you push your updates:
+
+1) Login on a Linux machine (e.g. iris cluster).
+
+2) Run the following command:
+/afs/slac.stanford.edu/www/projects/scalla/vol1/website-gen/bin/website-gen.sh
