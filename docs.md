@@ -22,6 +22,7 @@ Documentation
 |05-Oct-2011|[html](/doc/prod/ofs_config.htm) [pdf](/doc/prod/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (3.1.0)    |
 |24-Apr-2012|[html](/doc/dev/ofs_config.htm) [pdf](/doc/dev/ofs_config.pdf)          |Open File System &amp; Open Storage System Configuration Reference (git head) |
 |23-Sep-2012|[html](/doc/prod/cms_config.htm) [pdf](/doc/prod/cms_config.pdf)        |Cluster Management Service Configuration Reference (3.2.4)                    |
+|31-Oct-2012|[html](/doc/dev/cms_config.htm) [pdf](/doc/dev/cms_config.pdf)        |Cluster Management Service Configuration Reference (git head)                    |
 |26-Sep-2012|[html](/doc/prod/sec_config.htm) [pdf](/doc/prod/sec_config.pdf)        |Security Configuration Reference (3.2.4)                                      |
 |24-Apr-2012|[html](/doc/prod/xrd_monitoring.htm) [pdf](/doc/prod/xrd_monitoring.pdf)|System Monitoring Reference (3.2.4)                                           |
 |26-Oct-2012|[html](/doc/dev/xrd_monitoring.htm) [pdf](/doc/dev/xrd_monitoring.pdf)  |System Monitoring Reference (git head)                                       |
