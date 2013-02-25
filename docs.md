@@ -7,6 +7,7 @@ tab:    docs
 Upgrade information
 -------------------
 
+* [**Migration to 3.3.0 warning**](/2013/02/25/migration_warning_3_3_0.html)
 * [**Migration to 3.2.x warning**](/2012/05/11/migration_warning_3_2_x.html)
 * [**Upgrading to 3.1.0 or higher**](/2012/04/19/migration_warning_3_1_0.html)
 
