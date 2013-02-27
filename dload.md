@@ -15,7 +15,7 @@ or a [browsable](http://xrootd.cern.ch/repos/xrootd.git/) mirror at CERN:
 
     git clone http://xrootd.cern.ch/repos/xrootd.git
 
-Please make sure to check for any [warnings](docs.html) about known release
+Please make sure to check for any **[warnings]**(docs.html) about known release
 issues and other [upgrade information](docs.html) prior to installing a release.
 You can also read the [RELEASE NOTES](download/ReleaseNotes.html) and download
 the source tarballs:
