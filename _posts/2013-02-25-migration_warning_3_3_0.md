@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Warning for sites using PROOF & ROOT upgrading to 3.3.0
+title:  Warning for sites using PROOF and ROOT upgrading to 3.3.0
 ---
 
 Warning for sites using PROOF upgrading to 3.3.0
