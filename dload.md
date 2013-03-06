@@ -22,6 +22,7 @@ the source tarballs:
 
 |Date      |File                                                       |Size         |Checksum                        |Comment      |
 |:--------:|:---------------------------------------------------------:|:-----------:|:------------------------------:|:-----------:|
+|2013-03-06|[xrootd-3.3.1.tar.gz](/download/v3.3.1/xrootd-3.3.1.tar.gz)|1816739 bytes|8389af6838df7a5d6e5f7a6d10427b9a|Version 3.3.1|
 |2013-02-18|[xrootd-3.3.0.tar.gz](/download/v3.3.0/xrootd-3.3.0.tar.gz)|1816594 bytes|37048f6c6f29e3a2398ab95c06e2a63a|Version 3.3.0|
 |2012-12-11|[xrootd-3.2.7.tar.gz](/download/v3.2.7/xrootd-3.2.7.tar.gz)|1510630 bytes|32202edc5afd7f726887f5825ae5b0f5|Version 3.2.7|
 |2012-11-05|[xrootd-3.2.6.tar.gz](/download/v3.2.6/xrootd-3.2.6.tar.gz)|1509903 bytes|83fda989488851513ccfd34582008289|Version 3.2.6|
@@ -31,12 +32,6 @@ the source tarballs:
 |2012-06-18|[xrootd-3.2.2.tar.gz](/download/v3.2.2/xrootd-3.2.2.tar.gz)|1501106 bytes|d940e029524a57b29fa39ee2acbd0f2e|Version 3.2.2|
 |2012-05-12|[xrootd-3.2.1.tar.gz](/download/v3.2.1/xrootd-3.2.1.tar.gz)|1500441 bytes|b3f86bb9e10d7a7bd2bc99894e332794|Version 3.2.1|
 |2012-04-24|[xrootd-3.2.0.tar.gz](/download/v3.2.0/xrootd-3.2.0.tar.gz)|1500379 bytes|668b88f01a0b01ac0e711d85a77cacdd|Version 3.2.0|
-|2012-03-05|[xrootd-3.1.1.tar.gz](/download/v3.1.1/xrootd-3.1.1.tar.gz)|1501295 bytes|6466b12a99aed3f8ea0b56b5b3ace093|Version 3.1.1|
-|2011-10-21|[xrootd-3.1.0.tar.gz](/download/v3.1.0/xrootd-3.1.0.tar.gz)|1496093 bytes|471bbc73ea1fc4879bf325c0eae3c62b|Version 3.1.0|
-|2011-09-07|[xrootd-3.0.5.tar.gz](/download/v3.0.5/xrootd-3.0.5.tar.gz)|1748259 bytes|c4b084a994363186629eefe8e102668f|Version 3.0.5|
-|2011-06-14|[xrootd-3.0.4.tar.gz](/download/v3.0.4/xrootd-3.0.4.tar.gz)|1747946 bytes|cd260d0ea347fcc029ad6ad092667d05|Version 3.0.4|
-|2011-04-13|[xrootd-3.0.3.tar.gz](/download/v3.0.3/xrootd-3.0.3.tar.gz)|1738150 bytes|f857ba6303f2e821420553f8e54ee188|Version 3.0.3|
-|2011-01-26|[xrootd-3.0.2.tar.gz](/download/v3.0.2/xrootd-3.0.2.tar.gz)|1697106 bytes|98a30a9d84dc24da4cae51ed26965f5b|Version 3.0.2|
 
 Yum repositories
 ----------------
