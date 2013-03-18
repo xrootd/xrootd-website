@@ -4,6 +4,24 @@ title:  Development
 tab:    development
 ---
 
+Submitting patches
+------------------
+
+In order to submit a patch, please get a clone the git repository:
+
+    git clone http://xrootd.org/repo/xrootd.git
+
+Make your changes and commit them:
+
+    git add modified_file1.cc modified_file2.cc ...
+    git commit -m "Commit message"
+
+Create a patch:
+
+    git format-patch -1
+
+Send the patch to *xrootd-l@slac.stanford.edu*.
+
 Releases and release procedure
 ------------------------------
 
