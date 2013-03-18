@@ -24,6 +24,8 @@ quality of the core software parts.
 
 Quick Links
 -----------
+ * [LICENSE](COPYING.LGPL.txt) - XRootD is distributed under the terms of the
+   GNU LGPL License
  * [savannah](https://savannah.cern.ch/bugs/?group=xrootd) - report and track
    bugs
  * [Scalla-Intro.pdf](/papers/Scalla-Intro.pdf) - an overview of the xrootd
