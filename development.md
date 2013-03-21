@@ -9,7 +9,7 @@ Submitting patches
 
 In order to submit a patch, please get a clone the git repository:
 
-    git clone http://xrootd.org/repo/xrootd.git
+    git clone https://github.com/xrootd/xrootd.git
 
 Make your changes and commit them:
 

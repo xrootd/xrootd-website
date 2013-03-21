@@ -9,11 +9,7 @@ Source code
 
 You can get the most recent source tree by cloning our main git repository:
 
-    git clone http://xrootd.org//repo/xrootd.git
-
-or a [browsable](http://xrootd.cern.ch/repos/xrootd.git/) mirror at CERN:
-
-    git clone http://xrootd.cern.ch/repos/xrootd.git
+    git clone https://github.com/xrootd/xrootd.git
 
 Please make sure to check for any [**warnings**](docs.html) about known release
 issues and other [upgrade information](docs.html) prior to installing a release.

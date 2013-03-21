@@ -26,14 +26,14 @@ Quick Links
 -----------
  * [LICENSE](COPYING.LGPL.txt) - XRootD is distributed under the terms of the
    GNU LGPL License
- * [savannah](https://savannah.cern.ch/bugs/?group=xrootd) - report and track
-   bugs
  * [Scalla-Intro.pdf](/papers/Scalla-Intro.pdf) - an overview of the xrootd
    system
  * {{ "" | latest_release_url }} - the latest version of the software
  * [Release Notes](/download/ReleaseNotes.html) - a list of significant changes
    between the releases
- * [cgit](http://xrootd.cern.ch/repos/xrootd.git) - repository browser
+ * [GitHub repository](https://github.com/xrootd/xrootd) - repository browser
+ * [GitHub bug tracking](https://github.com/xrootd/xrootd/issues) - report and
+   track bugs
 
 News
 ----
