@@ -29,6 +29,7 @@ Documentation
 |03-Oct-2012|[html](/doc/prod/XRdv299.htm) [pdf](/doc/prod/XRdv299.pdf)              |XRootD Protocol Reference (Version 2.9.9)                                     |
 |20-Mar-2012|[html](https://twiki.grid.iu.edu/bin/view/SoftwareTeam/HowToInstallXrootd)|Basic XRootD setup HOWTO by Tanya Levshina|
 Presentations and papers
+|26-Apr-2013|[html](http://xrootd.org/doc/python/xrootd-python-0.1.0/)|Python Bindings documentation|
 ------------------------
 
 |Date       |Files                                                                 |Description                                                       |

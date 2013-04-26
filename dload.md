@@ -18,6 +18,7 @@ the source tarballs:
 
 |Date      |File                                                       |Size         |Checksum                        |Comment      |
 |:--------:|:---------------------------------------------------------:|:-----------:|:------------------------------:|:-----------:|
+|2013-04-26|[xrootd-3.3.2.tar.gz](/download/v3.3.2/xrootd-3.3.2.tar.gz)|1829741 bytes|26bcb085913d5245bf27ee59c4fdbce0|Version 3.3.2|
 |2013-03-06|[xrootd-3.3.1.tar.gz](/download/v3.3.1/xrootd-3.3.1.tar.gz)|1816739 bytes|8389af6838df7a5d6e5f7a6d10427b9a|Version 3.3.1|
 |2013-02-18|[xrootd-3.3.0.tar.gz](/download/v3.3.0/xrootd-3.3.0.tar.gz)|1816594 bytes|37048f6c6f29e3a2398ab95c06e2a63a|Version 3.3.0|
 |2012-12-11|[xrootd-3.2.7.tar.gz](/download/v3.2.7/xrootd-3.2.7.tar.gz)|1510630 bytes|32202edc5afd7f726887f5825ae5b0f5|Version 3.2.7|
