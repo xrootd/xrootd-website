@@ -38,8 +38,8 @@ Presentations and papers
 
 |Date       |Files                                                                 |Description                                                       |
 |:---------:|:--------------------------------------------------------------------:|------------------------------------------------------------------|
-|06-Aug-2013|[pptx](/presentations/LSST-Review.pptx) [pdf](/presentations/LSST-Review.pdf)|Clusering mySQL via XRootD (Presentation at August LSST Review)|
-|17-May-2013|[pptx](/presentations/Google_IO_talk_1305.pptx) [pdf](/presentations/Google_IO_talk_1305.pdf)|ATLAS, XRootD, & GCE (Presentation at Google I/O 17-May-13|
+|06-Aug-2013|[pptx](/presentations/LSST-Review.pptx) [pdf](/presentations/LSST-Review.pdf)|Clustering mySQL via XRootD (Presentation at August LSST Review)|
+|17-May-2013|[pptx](/presentations/Google_IO_talk_1305.pptx) [pdf](/presentations/Google_IO_talk_1305.pdf)|ATLAS, XRootD, & GCE (Presentation at Google I/O 17-May-13)|
 |15-Oct-2012|[pdf](/presentations/ATLAS_SCW_1210.pdf)|XRootD Roadmap (Presentation October's Atlas Software & Computing Week)
 |21-May-2012|[pdf](/presentations/Slides_IPDPS12.pdf)|Scalla: Structured Cluster Architecture For Low Latency Access (Presentation IPDPS 2012, Shanghai)|
 |21-May-2012|[pdf](/papers/Scalla_IPDPS12.pdf)|Scalla: Structured Cluster Architecture For Low Latency Access (Paper IPDPS 2012, Shanghai)|
