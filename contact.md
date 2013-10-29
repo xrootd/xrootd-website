@@ -16,8 +16,8 @@ body:
 
     SUBSCRIBE xrootd-l
 
-The <b>bugs</b> should be reported using the CERN Savannah setup accessible
-[here](https://savannah.cern.ch/bugs/?group=xrootd).
+The <b>bugs</b> should be reported using the GitHub issue tracker accessible
+[here](https://github.com/xrootd/xrootd/issues).
 
 The people responsible
 ----------------------
