@@ -21,6 +21,7 @@ Documentation
 |12-Dec-2011|[html](/doc/prod/xrd_config.htm) [pdf](/doc/prod/xrd_config.pdf)        |Scalla Xrd/XRootd Configuration Reference (3.3.0)                             |
 |12-Aug-2013|[html](/doc/dev4/xrd_config.htm) [pdf](/doc/dev4/xrd_config.pdf)           |Scalla Xrd/XRootd Configuration Reference (4.0.0)                          |
 |20-Jun-2012|[html](/doc/prod/ofs_config.htm) [pdf](/doc/prod/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (3.3.0)    |
+|15-Nov-2012|[html](/doc/dev4/ofs_config.htm) [pdf](/doc/prod/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.0.0)    |
 |31-Oct-2012|[html](/doc/prod/cms_config.htm) [pdf](/doc/prod/cms_config.pdf)        |Cluster Management Service Configuration Reference (3.3.0)                    |
 |12-Aug-2013|[html](/doc/dev4/cms_config.htm) [pdf](/doc/dev4/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.0.0)                    |
 |07-Feb-2013|[html](/doc/prod/sec_config.htm) [pdf](/doc/prod/sec_config.pdf)        |Security Configuration Reference (3.3.0)                                      |
@@ -30,6 +31,7 @@ Documentation
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
 |03-Oct-2012|[html](/doc/prod/XRdv299.htm) [pdf](/doc/prod/XRdv299.pdf)              |XRootD Protocol Reference (Version 2.9.9)                                     |
 |16-Jul-2013|[html](/doc/dev4/XRdv300.htm) [pdf](/doc/dev4/XRdv300.pdf)              |XRootD Protocol Reference (Version 3.0.0)                                     |
+|20-Nov-2013|[htlm](/doc/dev4/Plugin_Migration_v4.htm) [pdf](Plugin_Migration_v4.pdf)|Plug-in Writer's 4.x Migration Guide (New!)|
 |20-Mar-2012|[html](https://twiki.grid.iu.edu/bin/view/SoftwareTeam/HowToInstallXrootd)|Basic XRootD setup HOWTO by Tanya Levshina|
 |26-Apr-2012|[html](http://xrootd.org/doc/python/xrootd-python/)|Python Bindings|
 
