@@ -33,6 +33,7 @@ Documentation
 |16-Jul-2013|[html](/doc/dev4/XRdv300.htm) [pdf](/doc/dev4/XRdv300.pdf)              |XRootD Protocol Reference (Version 3.0.0)                                     |
 |20-Nov-2013|[htlm](/doc/dev4/Plugin_Migration_v4.htm) [pdf](Plugin_Migration_v4.pdf)|Plug-in Writer's 4.x Migration Guide (New!)|
 |20-Mar-2012|[html](https://twiki.grid.iu.edu/bin/view/SoftwareTeam/HowToInstallXrootd)|Basic XRootD setup HOWTO by Tanya Levshina|
+|05-Dec-2013|[html](http://xrootd.org/doc/doxygen/current/html/annotated.html)|Doxygen Docs|
 |26-Apr-2012|[html](http://xrootd.org/doc/python/xrootd-python/)|Python Bindings|
 
 Presentations and papers
