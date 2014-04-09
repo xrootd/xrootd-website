@@ -21,7 +21,7 @@ Documentation
 |12-Dec-2011|[html](/doc/prod/xrd_config.htm) [pdf](/doc/prod/xrd_config.pdf)        |Scalla Xrd/XRootd Configuration Reference (3.3.0)                             |
 |27-Mar-2014|[html](/doc/dev4/xrd_config.htm) [pdf](/doc/dev4/xrd_config.pdf)           |Scalla Xrd/XRootd Configuration Reference (4.0.0)                          |
 |20-Jun-2012|[html](/doc/prod/ofs_config.htm) [pdf](/doc/prod/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (3.3.0)    |
-|15-Nov-2012|[html](/doc/dev4/ofs_config.htm) [pdf](/doc/prod/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.0.0)    |
+|08-Apr-2014|[html](/doc/dev4/ofs_config.htm) [pdf](/doc/prod/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.0.0)    |
 |31-Oct-2012|[html](/doc/prod/cms_config.htm) [pdf](/doc/prod/cms_config.pdf)        |Cluster Management Service Configuration Reference (3.3.0)                    |
 |02-Apr-2014|[html](/doc/dev4/cms_config.htm) [pdf](/doc/dev4/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.0.0)                    |
 |07-Feb-2013|[html](/doc/prod/sec_config.htm) [pdf](/doc/prod/sec_config.pdf)        |Security Configuration Reference (3.3.0)                                      |
