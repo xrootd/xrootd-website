@@ -18,8 +18,8 @@ Documentation
 |Date       |Files                                                                 |Description                                                                     |
 |:---------:|:----------------------------------------------------------------------:|------------------------------------------------------------------------------|
 |13-Nov-2010|[html](/doc/prod/Syntax_config.htm) [pdf](/doc/prod/Syntax_config.pdf)  |Configuration File Syntax                                                     |
-|12-Dec-2011|[html](/doc/prod/xrd_config.htm) [pdf](/doc/prod/xrd_config.pdf)        |Scalla Xrd/XRootd Configuration Reference (3.3.0)                             |
-|27-Mar-2014|[html](/doc/dev4/xrd_config.htm) [pdf](/doc/dev4/xrd_config.pdf)           |Scalla Xrd/XRootd Configuration Reference (4.0.0)                          |
+|12-Dec-2011|[html](/doc/prod/xrd_config.htm) [pdf](/doc/prod/xrd_config.pdf)        |Xrd/XRootd Configuration Reference (3.3.0)                             |
+|27-Mar-2014|[html](/doc/dev4/xrd_config.htm) [pdf](/doc/dev4/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.0.0)                          |
 |20-Jun-2012|[html](/doc/prod/ofs_config.htm) [pdf](/doc/prod/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (3.3.0)    |
 |17-Jun-2014|[html](/doc/dev4/ofs_config.htm) [pdf](/doc/dev4/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.0.0)    |
 |16-Jun-2014|[html](/doc/dev4/pss_config.htm) [pdf](/doc/dev4/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.0.0 new!)    |
