@@ -11,7 +11,6 @@ Upgrade information
 * [**Migration to 3.2.x warning**](/2012/05/11/migration_warning_3_2_x.html)
 * [**Upgrading to 3.1.0 or higher**](/2012/04/19/migration_warning_3_1_0.html)
 
-
 Documentation
 -------------
 
@@ -38,6 +37,30 @@ Documentation
 |20-Mar-2012|[html](https://twiki.grid.iu.edu/bin/view/SoftwareTeam/HowToInstallXrootd)|Basic XRootD setup HOWTO by Tanya Levshina|
 |05-Dec-2013|[html](http://xrootd.org/doc/doxygen/current/html/annotated.html)|Doxygen Docs|
 |26-Apr-2012|[html](http://xrootd.org/doc/python/xrootd-python/)|Python Bindings|
+
+Man pages
+---------
+
+[xprep.1](/doc/man/xprep.1.html),
+[xrd.1](/doc/man/xrd.1.html),
+[xrdadler32.1](/doc/man/xrdadler32.1.html),
+[xrdcp.1](/doc/man/xrdcp.1.html),
+[xrdcp-old.1](/doc/man/xrdcp-old.1.html),
+[xrdfs.1](/doc/man/xrdfs.1.html),
+[xrdgsiproxy.1](/doc/man/xrdgsiproxy.1.html),
+[xrdstagetool.1](/doc/man/xrdstagetool.1.html),
+[xrootdfs.1](/doc/man/xrootdfs.1.html),
+[cmsd.8](/doc/man/cmsd.8.html),
+[cns_ssi.8](/doc/man/cns_ssi.8.html),
+[frm_admin.8](/doc/man/frm_admin.8.html),
+[frm_purged.8](/doc/man/frm_purged.8.html),
+[frm_xfragent.8](/doc/man/frm_xfragent.8.html),
+[frm_xfrd.8](/doc/man/frm_xfrd.8.html),
+[mpxstats.8](/doc/man/mpxstats.8.html),
+[XrdCnsd.8](/doc/man/XrdCnsd.8.html),
+[xrdpwdadmin.8](/doc/man/xrdpwdadmin.8.html),
+[xrdsssadmin.8](/doc/man/xrdsssadmin.8.html),
+[xrootd.8](/doc/man/xrootd.8.html)
 
 Presentations and papers
 ------------------------
