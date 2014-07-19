@@ -67,6 +67,7 @@ Presentations and papers
 
 |Date       |Files                                                                 |Description                                                       |
 |:---------:|:--------------------------------------------------------------------:|------------------------------------------------------------------|
+|14-Jul-2014|[pptx](/presentations/GSI-140715.pptx)|XRootD Release 4 and Beyond (GSI Seminar)|
 |03-Feb-2014|[pdf](/presentations/20140203_client_plugins.pdf)|Client-side plug-ins (CERN IT-DSS R&D Meeting)|
 |06-Aug-2013|[pptx](/presentations/LSST-Review.pptx) [pdf](/presentations/LSST-Review.pdf)|Clustering mySQL via XRootD (Presentation at August LSST Review)|
 |17-May-2013|[pptx](/presentations/Google_IO_talk_1305.pptx) [pdf](/presentations/Google_IO_talk_1305.pdf)|ATLAS, XRootD, & GCE (Presentation at Google I/O 17-May-13)|
