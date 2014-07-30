@@ -22,6 +22,7 @@ Documentation
 |09-Jul-2014|[html](/doc/dev4/ofs_config.htm) [pdf](/doc/dev4/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.x)      |
 |20-Jun-2012|[html](/doc/prod/ofs_config.htm) [pdf](/doc/prod/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (3.x)      |
 |16-Jun-2014|[html](/doc/dev4/pss_config.htm) [pdf](/doc/dev4/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.x new!)    |
+|29-Jul-2014|[html](/doc/dev41/pss_config.htm) [pdf](/doc/dev41/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.1)    |
 |02-Apr-2014|[html](/doc/dev4/cms_config.htm) [pdf](/doc/dev4/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.x)                    |
 |31-Oct-2012|[html](/doc/prod/cms_config.htm) [pdf](/doc/prod/cms_config.pdf)        |Cluster Management Service Configuration Reference (3.x)                    |
 |07-Feb-2013|[html](/doc/prod/sec_config.htm) [pdf](/doc/prod/sec_config.pdf)        |Security Configuration Reference (3+)                                         |
