@@ -31,8 +31,6 @@ The rule is that Rn.x also installs the libraries for R(n-1).x for backward
 compatibility for existing binaries. Hence, release 4.1.x will also install
 the R3.3.6 libraries (the most recent R3).
 
-### Release 4.1 ###
-
 Scheduled for October.
 
 ### ROOT & XRootD ###
