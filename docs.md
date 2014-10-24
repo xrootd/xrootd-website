@@ -20,7 +20,8 @@ Documentation
 |27-Mar-2014|[html](/doc/dev4/xrd_config.htm) [pdf](/doc/dev4/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.0)                            |
 |27-Sep-2014|[html](/doc/dev41/xrd_config.htm) [pdf](/doc/dev41/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.1)                            |
 |12-Dec-2011|[html](/doc/prod/xrd_config.htm) [pdf](/doc/prod/xrd_config.pdf)        |Xrd/XRootd Configuration Reference (3.x)                               |
-|09-Jul-2014|[html](/doc/dev4/ofs_config.htm) [pdf](/doc/dev4/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.x)      |
+|09-Jul-2014|[html](/doc/dev4/ofs_config.htm) [pdf](/doc/dev4/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.0)      |
+|24-Oct-2014|[html](/doc/dev41/ofs_config.htm) [pdf](/doc/dev41/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.1)      |
 |20-Jun-2012|[html](/doc/prod/ofs_config.htm) [pdf](/doc/prod/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (3.x)      |
 |16-Jun-2014|[html](/doc/dev4/pss_config.htm) [pdf](/doc/dev4/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.x new!)    |
 |05-Aug-2014|[html](/doc/dev41/pss_config.htm) [pdf](/doc/dev41/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.1)    |
