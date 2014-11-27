@@ -30,14 +30,6 @@ the source tarballs:
 |2013-04-26|[xrootd-3.3.2.tar.gz](/download/v3.3.2/xrootd-3.3.2.tar.gz)|1829741 bytes|26bcb085913d5245bf27ee59c4fdbce0|Version 3.3.2|
 |2013-03-06|[xrootd-3.3.1.tar.gz](/download/v3.3.1/xrootd-3.3.1.tar.gz)|1816739 bytes|8389af6838df7a5d6e5f7a6d10427b9a|Version 3.3.1|
 |2013-02-18|[xrootd-3.3.0.tar.gz](/download/v3.3.0/xrootd-3.3.0.tar.gz)|1816594 bytes|37048f6c6f29e3a2398ab95c06e2a63a|Version 3.3.0|
-|2012-12-11|[xrootd-3.2.7.tar.gz](/download/v3.2.7/xrootd-3.2.7.tar.gz)|1510630 bytes|32202edc5afd7f726887f5825ae5b0f5|Version 3.2.7|
-|2012-11-05|[xrootd-3.2.6.tar.gz](/download/v3.2.6/xrootd-3.2.6.tar.gz)|1509903 bytes|83fda989488851513ccfd34582008289|Version 3.2.6|
-|2012-10-04|[xrootd-3.2.5.tar.gz](/download/v3.2.5/xrootd-3.2.5.tar.gz)|1502003 bytes|12f13a484389173994e8ef7344cf0ae6|Version 3.2.5|
-|2012-09-10|[xrootd-3.2.4.tar.gz](/download/v3.2.4/xrootd-3.2.4.tar.gz)|1501690 bytes|66fdb9eafaa312446452065b65a0c6c4|Version 3.2.4|
-|2012-09-04|[xrootd-3.2.3.tar.gz](/download/v3.2.3/xrootd-3.2.3.tar.gz)|1501530 bytes|9234acc202cb09667fe56cee4b79102b|Version 3.2.3|
-|2012-06-18|[xrootd-3.2.2.tar.gz](/download/v3.2.2/xrootd-3.2.2.tar.gz)|1501106 bytes|d940e029524a57b29fa39ee2acbd0f2e|Version 3.2.2|
-|2012-05-12|[xrootd-3.2.1.tar.gz](/download/v3.2.1/xrootd-3.2.1.tar.gz)|1500441 bytes|b3f86bb9e10d7a7bd2bc99894e332794|Version 3.2.1|
-|2012-04-24|[xrootd-3.2.0.tar.gz](/download/v3.2.0/xrootd-3.2.0.tar.gz)|1500379 bytes|668b88f01a0b01ac0e711d85a77cacdd|Version 3.2.0|
 
 Yum repositories
 ----------------
