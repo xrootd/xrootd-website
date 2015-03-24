@@ -74,7 +74,7 @@ Presentations and papers
 
 |Date       |Files                                                                 |Description                                                       |
 |:---------:|:--------------------------------------------------------------------:|------------------------------------------------------------------|
-|27-Jan-2015|[html](https://indico.cern.ch/event/330212/other-view?view=standard)|XRootD Workshop @ UCSD)|
+|27-Jan-2015|[html](https://indico.cern.ch/event/330212/other-view?view=standard)|XRootD Workshop @ UCSD|
 |07-Nov-2014|[pptx](/presentations/COW-141107.pptx) [pdf](/presentations/COW-141107.pdf)|Future of Data Federation (CMS Offline Week)|
 |14-Jul-2014|[pptx](/presentations/GSI-140715.pptx)|XRootD Release 4 and Beyond (GSI Seminar)|
 |03-Feb-2014|[pdf](/presentations/20140203_client_plugins.pdf)|Client-side plug-ins (CERN IT-DSS R&D Meeting)|
