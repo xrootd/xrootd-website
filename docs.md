@@ -19,10 +19,10 @@ Documentation
 |13-Nov-2010|[html](/doc/prod/Syntax_config.htm) [pdf](/doc/prod/Syntax_config.pdf)  |Configuration File Syntax                                                     |
 |27-Mar-2014|[html](/doc/dev4/xrd_config.htm) [pdf](/doc/dev4/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.0)                            |
 |26-Nov-2014|[html](/doc/dev41/xrd_config.htm) [pdf](/doc/dev41/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.1)                            |
-|10-Feb-2015|[html](/doc/dev42/xrd_config.htm) [pdf](/doc/dev42/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.2)                            |
+|23-Mar-2015|[html](/doc/dev42/xrd_config.htm) [pdf](/doc/dev42/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.2)                            |
 |12-Dec-2011|[html](/doc/prod/xrd_config.htm) [pdf](/doc/prod/xrd_config.pdf)        |Xrd/XRootd Configuration Reference (3.x)                               |
+|12-Nov-2014|[html](/doc/dev41/ofs_config.htm) [pdf](/doc/dev41/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.1)      |
 |09-Jul-2014|[html](/doc/dev4/ofs_config.htm) [pdf](/doc/dev4/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.0)      |
-|24-Oct-2014|[html](/doc/dev41/ofs_config.htm) [pdf](/doc/dev41/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.1)      |
 |20-Jun-2012|[html](/doc/prod/ofs_config.htm) [pdf](/doc/prod/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (3.x)      |
 |16-Jun-2014|[html](/doc/dev4/pss_config.htm) [pdf](/doc/dev4/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.x new!)    |
 |05-Aug-2014|[html](/doc/dev41/pss_config.htm) [pdf](/doc/dev41/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.1)    |
@@ -37,7 +37,7 @@ Documentation
 |04-Dec-2013|[html](/doc/dev4/frm_config.htm) [pdf](/doc/dev4/frm_config.pdf)          |File Residency Manager Reference (4.x)                                  |
 |06-Feb-2013|[html](/doc/prod/frm_config.htm) [pdf](/doc/prod/frm_config.pdf)          |File Residency Manager Reference (3.x)                                  |
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
-|16-Jun-2014|[html](/doc/dev4/XRdv300.htm) [pdf](/doc/dev4/XRdv300.pdf)              |XRootD Protocol Reference (Version 3.0.0)                                     |
+|23-Mar-2015|[html](/doc/dev42/XRdv300.htm) [pdf](/doc/dev42/XRdv300.pdf)              |XRootD Protocol Reference (Version 3.0.0)                                     |
 |03-Oct-2012|[html](/doc/prod/XRdv299.htm) [pdf](/doc/prod/XRdv299.pdf)              |XRootD Protocol Reference (Version 2.9.9)                                     |
 |29-Mar-2014|[html](/doc/dev4/tpc_protocol.htm) [pdf](/doc/dev4/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 1)                                     |
 |20-Nov-2013|[htlm](/doc/dev4/Plugin_Migration_v4.htm) [pdf](Plugin_Migration_v4.pdf)|Plug-in Writer's 4.x Migration Guide (New!)|
@@ -74,6 +74,8 @@ Presentations and papers
 
 |Date       |Files                                                                 |Description                                                       |
 |:---------:|:--------------------------------------------------------------------:|------------------------------------------------------------------|
+|27-Jan-2015|[html](https://indico.cern.ch/event/330212/other-view?view=standard)|XRootD Workshop @ UCSD)|
+|07-Nov-2014|[pptx](/presentations/COW-141107.pptx) [pdf](/presentations/COW-141107.pdf)|Future of Data Federation (CMS Offline Week)|
 |14-Jul-2014|[pptx](/presentations/GSI-140715.pptx)|XRootD Release 4 and Beyond (GSI Seminar)|
 |03-Feb-2014|[pdf](/presentations/20140203_client_plugins.pdf)|Client-side plug-ins (CERN IT-DSS R&D Meeting)|
 |06-Aug-2013|[pptx](/presentations/LSST-Review.pptx) [pdf](/presentations/LSST-Review.pdf)|Clustering mySQL via XRootD (Presentation at August LSST Review)|
