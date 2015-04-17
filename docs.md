@@ -27,6 +27,7 @@ Documentation
 |16-Jun-2014|[html](/doc/dev4/pss_config.htm) [pdf](/doc/dev4/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.x new!)    |
 |05-Aug-2014|[html](/doc/dev41/pss_config.htm) [pdf](/doc/dev41/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.1)    |
 |14-Feb-2015|[html](/doc/dev42/pss_config.htm) [pdf](/doc/dev42/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.2)    |
+|09-Dec-2014|[html](/doc/dev42/cms_config.htm) [pdf](/doc/dev42/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.2)                    |
 |15-Oct-2014|[html](/doc/dev41/cms_config.htm) [pdf](/doc/dev41/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.1)                    |
 |02-Apr-2014|[html](/doc/dev4/cms_config.htm) [pdf](/doc/dev4/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.0)                    |
 |31-Oct-2012|[html](/doc/prod/cms_config.htm) [pdf](/doc/prod/cms_config.pdf)        |Cluster Management Service Configuration Reference (3.x)                    |
