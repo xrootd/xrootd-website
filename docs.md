@@ -17,7 +17,8 @@ Documentation
 
 |Date       |Files                                                                 |Description                                                                     |
 |:---------:|:----------------------------------------------------------------------:|------------------------------------------------------------------------------|
-|13-Nov-2010|[html](/doc/prod/Syntax_config.htm) [pdf](/doc/prod/Syntax_config.pdf)  |Configuration File Syntax                                                     |
+|14-Aug-2015|[html](/doc/dev42/Syntax_config.htm) [pdf](/doc/dev42/Syntax_config.pdf)  |Configuration File Syntax (4.x)                                               |
+|13-Nov-2010|[html](/doc/prod/Syntax_config.htm) [pdf](/doc/prod/Syntax_config.pdf)  |Configuration File Syntax (3.x)                                               |
 |27-Mar-2014|[html](/doc/dev4/xrd_config.htm) [pdf](/doc/dev4/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.0)                            |
 |26-Nov-2014|[html](/doc/dev41/xrd_config.htm) [pdf](/doc/dev41/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.1)                            |
 |23-Mar-2015|[html](/doc/dev42/xrd_config.htm) [pdf](/doc/dev42/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.2)                            |
