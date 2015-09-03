@@ -66,7 +66,7 @@ The binaries for the supported platforms are downloadable here:
 Incremental builds
 ------------------
 We build the repository commits incrementally and they are accessible via our
-TeamCity portal:
+Jenkins portal:
 
 <a href="https://dss-ci.cern.ch">
 <img src="images/logo_jenkins.png" alt="Jenkins logo" width="160" height="40" />
