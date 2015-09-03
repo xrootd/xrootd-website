@@ -68,6 +68,6 @@ Incremental builds
 We build the repository commits incrementally and they are accessible via our
 TeamCity portal:
 
-<a href="https://teamcity-dss.cern.ch:8443/guestLogin.html?guest=1">
-<img src="images/logo_teamcity.gif" alt="TeamCity logo" width="160" height="40" />
+<a href="https://dss-ci.cern.ch">
+<img src="images/logo_jenkins.png" alt="Jenkins logo" width="160" height="40" />
 </a>
