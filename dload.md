@@ -49,10 +49,12 @@ files for /etc/yum.repos.d are available below:
 
 * Stable: 
   [xrootd-stable-slc5.repo](/binaries/xrootd-stable-slc5.repo),
-  [xrootd-stable-slc6.repo](/binaries/xrootd-stable-slc6.repo)
+  [xrootd-stable-slc6.repo](/binaries/xrootd-stable-slc6.repo),
+  [xrootd-stable-slc7.repo](/binaries/xrootd-stable-slc7.repo)
 * Testing:
   [xrootd-testing-slc5.repo](/binaries/xrootd-testing-slc5.repo),
-  [xrootd-testing-slc6.repo](/binaries/xrootd-testing-slc6.repo)
+  [xrootd-testing-slc6.repo](/binaries/xrootd-testing-slc6.repo),
+  [xrootd-stable-slc7.repo](/binaries/xrootd-stable-slc7.repo)
 
 Binaries
 --------
