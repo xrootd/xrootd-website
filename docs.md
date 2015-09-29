@@ -40,7 +40,7 @@ Documentation
 |04-Dec-2013|[html](/doc/dev4/frm_config.htm) [pdf](/doc/dev4/frm_config.pdf)          |File Residency Manager Reference (4.x)                                  |
 |06-Feb-2013|[html](/doc/prod/frm_config.htm) [pdf](/doc/prod/frm_config.pdf)          |File Residency Manager Reference (3.x)                                  |
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
-|29-Jul-2015|[html](/doc/dev42/ssi_reference.htm) [pdf](/doc/dev42/ssi_reference.pdf) |XRootD Scalable Service Interface Reference (xrdssi branch)                                     |
+|28-Sep-2015|[html](/doc/dev42/ssi_reference.htm) [pdf](/doc/dev42/ssi_reference.pdf) |XRootD Scalable Service Interface Reference (xrdssi branch)                                     |
 |23-Mar-2015|[html](/doc/dev42/XRdv300.htm) [pdf](/doc/dev42/XRdv300.pdf)              |XRootD Protocol Reference (Version 3.0.0)                                     |
 |03-Oct-2012|[html](/doc/prod/XRdv299.htm) [pdf](/doc/prod/XRdv299.pdf)              |XRootD Protocol Reference (Version 2.9.9)                                     |
 |29-Mar-2014|[html](/doc/dev4/tpc_protocol.htm) [pdf](/doc/dev4/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 1)                                     |
