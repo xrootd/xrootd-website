@@ -13,7 +13,7 @@ You can get the most recent source tree by cloning our main git repository:
 
 Please make sure to check for any [**warnings**](docs.html) about known release
 issues and other [upgrade information](docs.html) prior to installing a release.
-You can also read the [RELEASE NOTES](download/ReleaseNotes.html) and download
+You can also read the [RELEASE NOTES](https://github.com/xrootd/xrootd/blob/v4.3.0/docs/ReleaseNotes.txt) and download
 the source tarballs:
 
 |Date      |File                                                       |Size         |Checksum                        |Comment      |
