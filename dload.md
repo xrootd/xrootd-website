@@ -18,6 +18,7 @@ the source tarballs:
 
 |Date      |File                                                       |Size         |Checksum                        |Comment      |
 |:--------:|:---------------------------------------------------------:|:-----------:|:------------------------------:|:-----------:|
+|2016-07-21|[xrootd-4.4.0.tar.gz](/download/v4.4.0/xrootd-4.4.0.tar.gz)|2146909 bytes|58f55e56801d3661d753ff5fd33dbcc9|Version 4.4.0|
 |2016-02-25|[xrootd-4.3.0.tar.gz](/download/v4.3.0/xrootd-4.3.0.tar.gz)|2122036 bytes|39c2fab9f632f35e12ff607ccaf9e16c|Version 4.3.0|
 |2015-09-03|[xrootd-4.2.3.tar.gz](/download/v4.2.3/xrootd-4.2.3.tar.gz)|2050179 bytes|7b04ae82684e165bf57d05cfe7e7e33d|Version 4.2.3|
 |2015-07-24|[xrootd-4.2.2.tar.gz](/download/v4.2.2/xrootd-4.2.2.tar.gz)|2127581 bytes|b746481a2f3dd6c04031ee0a76994cbe|Version 4.2.2|
@@ -55,7 +56,7 @@ files for /etc/yum.repos.d are available below:
 * Testing:
   [xrootd-testing-slc5.repo](/binaries/xrootd-testing-slc5.repo),
   [xrootd-testing-slc6.repo](/binaries/xrootd-testing-slc6.repo),
-  [xrootd-stable-slc7.repo](/binaries/xrootd-stable-slc7.repo)
+  [xrootd-testing-slc7.repo](/binaries/xrootd-testing-slc7.repo)
 
 Binaries
 --------
