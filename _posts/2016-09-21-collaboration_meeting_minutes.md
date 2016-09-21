@@ -3,7 +3,7 @@ layout: default
 title:  Collaboration Meeting Minutes
 ---
 
-XRootD Collaboration Meeting held at CERN 24-September-2014
+XRootD Collaboration Meeting held at CERN 21-September-2016
 -----------------------------------------------------------
 
 Attendees:
