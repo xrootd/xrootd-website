@@ -13,13 +13,14 @@ You can get the most recent source tree by cloning our main git repository:
 
 Please make sure to check for any [**warnings**](docs.html) about known release
 issues and other [upgrade information](docs.html) prior to installing a release.
-You can also read the [RELEASE NOTES](https://github.com/xrootd/xrootd/blob/v4.3.0/docs/ReleaseNotes.txt) and download
+You can also read the [RELEASE NOTES](https://github.com/xrootd/xrootd/blob/v4.4.0/docs/ReleaseNotes.txt) and download
 the source tarballs:
 
 |Date      |File                                                       |Size         |Checksum                        |Comment      |
 |:--------:|:---------------------------------------------------------:|:-----------:|:------------------------------:|:-----------:|
 |2016-07-21|[xrootd-4.4.0.tar.gz](/download/v4.4.0/xrootd-4.4.0.tar.gz)|2146909 bytes|58f55e56801d3661d753ff5fd33dbcc9|Version 4.4.0|
 |2016-02-25|[xrootd-4.3.0.tar.gz](/download/v4.3.0/xrootd-4.3.0.tar.gz)|2122036 bytes|39c2fab9f632f35e12ff607ccaf9e16c|Version 4.3.0|
+|2016-09-30|[xrootd-4.2.4.tar.gz](/download/v4.2.4/xrootd-4.2.4.tar.gz)|2050381 bytes|f6abed9b7cb6ac0f1dbcabb52f1adb32|Version 4.2.4|
 |2015-09-03|[xrootd-4.2.3.tar.gz](/download/v4.2.3/xrootd-4.2.3.tar.gz)|2050179 bytes|7b04ae82684e165bf57d05cfe7e7e33d|Version 4.2.3|
 |2015-07-24|[xrootd-4.2.2.tar.gz](/download/v4.2.2/xrootd-4.2.2.tar.gz)|2127581 bytes|b746481a2f3dd6c04031ee0a76994cbe|Version 4.2.2|
 |2015-06-01|[xrootd-4.2.1.tar.gz](/download/v4.2.1/xrootd-4.2.1.tar.gz)|2070389 bytes|1e914d340a2f84641ea0287ebaee9276|Version 4.2.1|
