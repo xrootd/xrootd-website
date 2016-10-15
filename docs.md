@@ -8,9 +8,6 @@ Upgrade information
 -------------------
 
 * [**Migration to 4.x.x warning: xrdcp dCache compatability**](/2015/05/01/migration_warning_xrdcp_4_x_x.html)
-* [**Migration to 3.3.0 warning**](/2013/02/25/migration_warning_3_3_0.html)
-* [**Migration to 3.2.x warning**](/2012/05/11/migration_warning_3_2_x.html)
-* [**Upgrading to 3.1.0 or higher**](/2012/04/19/migration_warning_3_1_0.html)
 
 Documentation
 -------------
@@ -22,12 +19,12 @@ Documentation
 |18-Oct-2015|[html](/doc/dev41/ofs_config.htm) [pdf](/doc/dev41/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.x)      |
 |11-Oct-2015|[html](/doc/dev42/pss_config.htm) [pdf](/doc/dev42/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.2)    |
 |20-Jun-2016|[html](/doc/dev44/cms_config.htm) [pdf](/doc/dev44/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.4)                    |
-|09-Oct-2016|[html](/doc/dev45/sec_config.htm) [pdf](/doc/dev45/sec_config.pdf)        |Security Configuration Reference (4.4)                                         |
+|09-Oct-2016|[html](/doc/dev45/sec_config.htm) [pdf](/doc/dev45/sec_config.pdf)        |Security Configuration Reference (4.5)                                         |
 |21-Apr-2016|[html](/doc/dev44/xrd_monitoring.htm) [pdf](/doc/dev44/xrd_monitoring.pdf)|System Monitoring Reference (4.4)                                           |
 |04-Dec-2013|[html](/doc/dev4/frm_config.htm) [pdf](/doc/dev4/frm_config.pdf)          |File Residency Manager Reference (4.x)                                  |
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
 |06-Jun-2016|[html](/doc/dev42/ssi_reference.htm) [pdf](/doc/dev42/ssi_reference.pdf) |XRootD Scalable Service Interface Reference (xrdssi branch)                                     |
-|10-Oct-2016|[html](/doc/dev45/XRdv310.htm) [pdf](/doc/dev45/XRdv310.pdf)              |XRootD Protocol Reference (Version 3.0.0)                                     |
+|10-Oct-2016|[html](/doc/dev45/XRdv310.htm) [pdf](/doc/dev45/XRdv310.pdf)              |XRootD Protocol Reference (Version 3.1.0)                                     |
 |29-Mar-2014|[html](/doc/dev4/tpc_protocol.htm) [pdf](/doc/dev4/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 1)                                     |
 |05-Dec-2013|[html](http://xrootd.org/doc/doxygen/current/html/annotated.html)|Doxygen Docs|
 |26-Apr-2012|[html](http://xrootd.org/doc/python/xrootd-python/)|Python Bindings|
