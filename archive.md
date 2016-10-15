@@ -1,87 +1,40 @@
 ---
 layout: default
-title:  Documentation and Presentations
-tab:    docs
+title:  Past Documentation and Presentations
+tab:    archive
 ---
 
-Upgrade information
--------------------
-
-* [**Migration to 4.x.x warning: xrdcp dCache compatability**](/2015/05/01/migration_warning_xrdcp_4_x_x.html)
-* [**Migration to 3.3.0 warning**](/2013/02/25/migration_warning_3_3_0.html)
-* [**Migration to 3.2.x warning**](/2012/05/11/migration_warning_3_2_x.html)
-* [**Upgrading to 3.1.0 or higher**](/2012/04/19/migration_warning_3_1_0.html)
-
-Documentation
--------------
+Past Documentation
+------------------
 
 |Date       |Files                                                                 |Description                                                                     |
 |:---------:|:----------------------------------------------------------------------:|------------------------------------------------------------------------------|
-|14-Aug-2015|[html](/doc/dev42/Syntax_config.htm) [pdf](/doc/dev42/Syntax_config.pdf)  |Configuration File Syntax (4.x)                                               |
 |13-Nov-2010|[html](/doc/prod/Syntax_config.htm) [pdf](/doc/prod/Syntax_config.pdf)  |Configuration File Syntax (3.x)                                               |
-|20-Jun-2016|[html](/doc/dev44/xrd_config.htm) [pdf](/doc/dev44/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.4)                            |
 |25-Nov-2015|[html](/doc/dev42/xrd_config.htm) [pdf](/doc/dev42/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.x)                            |
 |12-Dec-2011|[html](/doc/prod/xrd_config.htm) [pdf](/doc/prod/xrd_config.pdf)        |Xrd/XRootd Configuration Reference (3.x)                               |
-|18-Oct-2015|[html](/doc/dev41/ofs_config.htm) [pdf](/doc/dev41/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.x)      |
 |20-Jun-2012|[html](/doc/prod/ofs_config.htm) [pdf](/doc/prod/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (3.x)      |
 |11-Oct-2015|[html](/doc/dev42/pss_config.htm) [pdf](/doc/dev42/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.2)    |
-|20-Jun-2016|[html](/doc/dev44/cms_config.htm) [pdf](/doc/dev44/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.4)                    |
 |25-Nov-2015|[html](/doc/dev43/cms_config.htm) [pdf](/doc/dev43/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.3)                    |
 |09-Dec-2014|[html](/doc/dev42/cms_config.htm) [pdf](/doc/dev42/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.x)                    |
 |31-Oct-2012|[html](/doc/prod/cms_config.htm) [pdf](/doc/prod/cms_config.pdf)        |Cluster Management Service Configuration Reference (3.x)                    |
 |19-Jun-2016|[html](/doc/dev44/sec_config.htm) [pdf](/doc/dev44/sec_config.pdf)        |Security Configuration Reference (4.4)                                         |
 |15-Oct-2014|[html](/doc/dev41/sec_config.htm) [pdf](/doc/dev41/sec_config.pdf)        |Security Configuration Reference (4.x)                                         |
 |07-Feb-2013|[html](/doc/prod/sec_config.htm) [pdf](/doc/prod/sec_config.pdf)        |Security Configuration Reference (3.xx)                                         |
-|21-Apr-2016|[html](/doc/dev44/xrd_monitoring.htm) [pdf](/doc/dev44/xrd_monitoring.pdf)|System Monitoring Reference (4.4)                                           |
 |07-Jul-2014|[html](/doc/dev4/xrd_monitoring.htm) [pdf](/doc/dev4/xrd_monitoring.pdf)|System Monitoring Reference (4.x)                                           |
 |15-Jan-2013|[html](/doc/prod/xrd_monitoring.htm) [pdf](/doc/prod/xrd_monitoring.pdf)|System Monitoring Reference (3.x)                                           |
-|04-Dec-2013|[html](/doc/dev4/frm_config.htm) [pdf](/doc/dev4/frm_config.pdf)          |File Residency Manager Reference (4.x)                                  |
 |06-Feb-2013|[html](/doc/prod/frm_config.htm) [pdf](/doc/prod/frm_config.pdf)          |File Residency Manager Reference (3.x)                                  |
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
-|06-Jun-2016|[html](/doc/dev42/ssi_reference.htm) [pdf](/doc/dev42/ssi_reference.pdf) |XRootD Scalable Service Interface Reference (xrdssi branch)                                     |
 |23-Mar-2015|[html](/doc/dev42/XRdv300.htm) [pdf](/doc/dev42/XRdv300.pdf)              |XRootD Protocol Reference (Version 3.0.0)                                     |
 |03-Oct-2012|[html](/doc/prod/XRdv299.htm) [pdf](/doc/prod/XRdv299.pdf)              |XRootD Protocol Reference (Version 2.9.9)                                     |
-|29-Mar-2014|[html](/doc/dev4/tpc_protocol.htm) [pdf](/doc/dev4/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 1)                                     |
 |20-Nov-2013|[html](/doc/dev4/Plugin_Migration_v4.htm) [pdf](Plugin_Migration_v4.pdf)|Plug-in Writer's 4.x Migration Guide (New!)|
 |20-Mar-2012|[html](https://twiki.grid.iu.edu/bin/view/SoftwareTeam/HowToInstallXrootd)|Basic XRootD setup HOWTO by Tanya Levshina|
 |05-Dec-2013|[html](http://xrootd.org/doc/doxygen/current/html/annotated.html)|Doxygen Docs|
-|26-Apr-2012|[html](http://xrootd.org/doc/python/xrootd-python/)|Python Bindings|
 
-Man pages
----------
-
-[xprep.1](/doc/man/xprep.1.html),
-[xrd.1](/doc/man/xrd.1.html),
-[xrdadler32.1](/doc/man/xrdadler32.1.html),
-[xrdcp.1](/doc/man/xrdcp.1.html),
-[xrdcp-old.1](/doc/man/xrdcp-old.1.html),
-[xrdfs.1](/doc/man/xrdfs.1.html),
-[xrdgsiproxy.1](/doc/man/xrdgsiproxy.1.html),
-[xrdstagetool.1](/doc/man/xrdstagetool.1.html),
-[xrootdfs.1](/doc/man/xrootdfs.1.html),
-[cmsd.8](/doc/man/cmsd.8.html),
-[cns_ssi.8](/doc/man/cns_ssi.8.html),
-[frm_admin.8](/doc/man/frm_admin.8.html),
-[frm_purged.8](/doc/man/frm_purged.8.html),
-[frm_xfragent.8](/doc/man/frm_xfragent.8.html),
-[frm_xfrd.8](/doc/man/frm_xfrd.8.html),
-[mpxstats.8](/doc/man/mpxstats.8.html),
-[XrdCnsd.8](/doc/man/XrdCnsd.8.html),
-[xrdpwdadmin.8](/doc/man/xrdpwdadmin.8.html),
-[xrdsssadmin.8](/doc/man/xrdsssadmin.8.html),
-[xrootd.8](/doc/man/xrootd.8.html)
-
-Presentations and papers
-------------------------
+Older Presentations and papers
+------------------------------
 
 |Date       |Files                                                                 |Description                                                       |
 |:---------:|:--------------------------------------------------------------------:|------------------------------------------------------------------|
-|27-Jan-2015|[html](https://indico.cern.ch/event/330212/other-view?view=standard)|XRootD Workshop @ UCSD|
-|07-Nov-2014|[pptx](/presentations/COW-141107.pptx) [pdf](/presentations/COW-141107.pdf)|Future of Data Federation (CMS Offline Week)|
-|14-Jul-2014|[pptx](/presentations/GSI-140715.pptx)|XRootD Release 4 and Beyond (GSI Seminar)|
-|03-Feb-2014|[pdf](/presentations/20140203_client_plugins.pdf)|Client-side plug-ins (CERN IT-DSS R&D Meeting)|
-|06-Aug-2013|[pptx](/presentations/LSST-Review.pptx) [pdf](/presentations/LSST-Review.pdf)|Clustering mySQL via XRootD (Presentation at August LSST Review)|
-|17-May-2013|[pptx](/presentations/Google_IO_talk_1305.pptx) [pdf](/presentations/Google_IO_talk_1305.pdf)|ATLAS, XRootD, & GCE (Presentation at Google I/O 17-May-13)|
 |15-Oct-2012|[pdf](/presentations/ATLAS_SCW_1210.pdf)|XRootD Roadmap (Presentation October's Atlas Software & Computing Week)
 |21-May-2012|[pdf](/presentations/Slides_IPDPS12.pdf)|Scalla: Structured Cluster Architecture For Low Latency Access (Presentation IPDPS 2012, Shanghai)|
 |21-May-2012|[pdf](/papers/Scalla_IPDPS12.pdf)|Scalla: Structured Cluster Architecture For Low Latency Access (Paper IPDPS 2012, Shanghai)|
@@ -100,4 +53,3 @@ Presentations and papers
 |19-May-2009|[ppt](presentations/ANL_Atlas0519.ppt)|ANL Tier3(g,w) Meeting, presentation by Andrew Hanushevsky|
 |06-Apr-2009|[ppt](/presentations/AtlasUF090406.ppt)|Atlas WT2-3 User's Forum, presentation by Andrew Hanushevsky|
 |06-Mar-2009|[ppt](/presentations/xrootd_monitoring.ppt) [pdf](/presentations/xrootd_monitoring.pdf)|Reak-time Data Access Monitoring in Distributedm Multi-Petabyte Systems. Tofigh Azemoon, Jacek Becla, Andrew Hanushevsky, and Massimiliano Turri.|
-
