@@ -25,6 +25,7 @@ Documentation
 |04-Dec-2013|[html](/doc/dev4/frm_config.htm) [pdf](/doc/dev4/frm_config.pdf)          |File Residency Manager Reference (4.x)                                  |
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
 |06-Jun-2016|[html](/doc/dev42/ssi_reference.htm) [pdf](/doc/dev42/ssi_reference.pdf) |XRootD Scalable Service Interface Reference (xrdssi branch)                                     |
+|09-Feb-2017|[html](/doc/dev46/ssi_reference-V2.htm) [pdf](/doc/dev46/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 (xrdssiV2 branch)                                     |
 |10-Oct-2016|[html](/doc/dev45/XRdv310.htm) [pdf](/doc/dev45/XRdv310.pdf)              |XRootD Protocol Reference (Version 3.1.0)                                     |
 |21-Oct-2016|[html](/doc/dev4/tpc_protocol.htm) [pdf](/doc/dev4/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 1)                                     |
 |05-Dec-2013|[html](http://xrootd.org/doc/doxygen/current/html/annotated.html)|Doxygen Docs|
