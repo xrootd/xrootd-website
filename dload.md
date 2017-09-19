@@ -79,6 +79,6 @@ Incremental builds
 We build the repository commits incrementally and they are accessible via our
 Jenkins portal:
 
-<a href="https://st-ci.cern.ch">
-<img src="images/logo_jenkins.png" alt="Jenkins logo" width="160" height="40" />
+<a href="https://gitlab.cern.ch/dss/xrootd/pipelines">
+<img src="images/logo_gitlab.png" alt="gitlab logo" width="160" height="40" />
 </a>
