@@ -15,14 +15,15 @@ Documentation
 |Date       |Files                                                                 |Description                                                                     |
 |:---------:|:----------------------------------------------------------------------:|------------------------------------------------------------------------------|
 |14-Aug-2015|[html](/doc/dev42/Syntax_config.htm) [pdf](/doc/dev42/Syntax_config.pdf)  |Configuration File Syntax (4.x)                                               |
-|10-Mar-2017|[html](/doc/dev44/xrd_config.htm) [pdf](/doc/dev44/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.4)                            |
 |20-May-2017|[html](/doc/dev47/xrd_config.htm) [pdf](/doc/dev47/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.7)                            |
+|27-Oct-2017|[html](/doc/dev48/xrd_config.htm) [pdf](/doc/dev48/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.8)                            |
 |18-Oct-2015|[html](/doc/dev41/ofs_config.htm) [pdf](/doc/dev41/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.x)      |
+|27-Oct-2017|[html](/doc/dev48/ofs_config.htm) [pdf](/doc/dev48/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.8)      |
 |11-Jan-2017|[html](/doc/dev46/pss_config.htm) [pdf](/doc/dev46/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.6)    |
 |28-Jun-2017|[html](/doc/dev47/pss_config.htm) [pdf](/doc/dev47/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.7)    |
 |21-Oct-2016|[html](/doc/dev45/cms_config.htm) [pdf](/doc/dev45/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.4)                    |
 |09-Oct-2016|[html](/doc/dev45/sec_config.htm) [pdf](/doc/dev45/sec_config.pdf)        |Security Configuration Reference (4.5)                                         |
-|07-Apr-2017|[html](/doc/dev47/sec_config.htm) [pdf](/doc/dev47/sec_config.pdf)        |Security Configuration Reference (4.7)                                         |
+|27-Oct-2017|[html](/doc/dev47/sec_config.htm) [pdf](/doc/dev47/sec_config.pdf)        |Security Configuration Reference (4.7)                                         |
 |21-Apr-2016|[html](/doc/dev44/xrd_monitoring.htm) [pdf](/doc/dev44/xrd_monitoring.pdf)|System Monitoring Reference (4.4)                                           |
 |04-Dec-2013|[html](/doc/dev4/frm_config.htm) [pdf](/doc/dev4/frm_config.pdf)          |File Residency Manager Reference (4.x)                                  |
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
