@@ -22,6 +22,7 @@ Documentation
 |11-Jan-2017|[html](/doc/dev46/pss_config.htm) [pdf](/doc/dev46/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.6)    |
 |28-Jun-2017|[html](/doc/dev47/pss_config.htm) [pdf](/doc/dev47/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.7)    |
 |21-Oct-2016|[html](/doc/dev45/cms_config.htm) [pdf](/doc/dev45/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.4)                    |
+|06-Feb-2018|[html](/doc/dev49/cms_config.htm) [pdf](/doc/dev49/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.9)                    |
 |09-Oct-2016|[html](/doc/dev45/sec_config.htm) [pdf](/doc/dev45/sec_config.pdf)        |Security Configuration Reference (4.5)                                         |
 |27-Oct-2017|[html](/doc/dev47/sec_config.htm) [pdf](/doc/dev47/sec_config.pdf)        |Security Configuration Reference (4.7)                                         |
 |21-Apr-2016|[html](/doc/dev44/xrd_monitoring.htm) [pdf](/doc/dev44/xrd_monitoring.pdf)|System Monitoring Reference (4.4)                                           |
