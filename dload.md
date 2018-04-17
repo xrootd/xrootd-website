@@ -70,6 +70,8 @@ files for /etc/yum.repos.d are available below:
 * Experimental
   [xrootd-experimental-slc6.repo](/binaries/xrootd-experimental-slc6.repo),
   [xrootd-experimental-slc7.repo](/binaries/xrootd-experimental-slc7.repo)
+* Ceph:
+  [xrootd-ceph-slc7.repo](/binaries/xrootd-ceph-slc7.repo)
 
 Binaries
 --------
