@@ -22,12 +22,13 @@ Documentation
 |24-Aug-2018|[html](/doc/dev49/ofs_config.htm) [pdf](/doc/dev49/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.9)      |
 |11-Jan-2017|[html](/doc/dev46/pss_config.htm) [pdf](/doc/dev46/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.6)    |
 |28-Jun-2017|[html](/doc/dev47/pss_config.htm) [pdf](/doc/dev47/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.7)    |
+|18-Sep-2018|[html](/doc/dev49/pss_config.htm) [pdf](/doc/dev49/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.9)    |
 |21-Oct-2016|[html](/doc/dev45/cms_config.htm) [pdf](/doc/dev45/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.4)                    |
 |27-Jul-2018|[html](/doc/dev49/cms_config.htm) [pdf](/doc/dev49/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.9)                    |
 |09-Oct-2016|[html](/doc/dev45/sec_config.htm) [pdf](/doc/dev45/sec_config.pdf)        |Security Configuration Reference (4.5)                                         |
 |27-Oct-2017|[html](/doc/dev47/sec_config.htm) [pdf](/doc/dev47/sec_config.pdf)        |Security Configuration Reference (4.7)                                         |
 |22-Jul-2018|[html](/doc/dev49/sec_config.htm) [pdf](/doc/dev49/sec_config.pdf)        |Security Configuration Reference (4.9)                                         |
-|21-Apr-2016|[html](/doc/dev44/xrd_monitoring.htm) [pdf](/doc/dev44/xrd_monitoring.pdf)|System Monitoring Reference (4.4)                                           |
+|17-Sep-2018|[html](/doc/dev44/xrd_monitoring.htm) [pdf](/doc/dev44/xrd_monitoring.pdf)|System Monitoring Reference (4.4)                                           |
 |04-Dec-2013|[html](/doc/dev4/frm_config.htm) [pdf](/doc/dev4/frm_config.pdf)          |File Residency Manager Reference (4.x)                                  |
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
 |09-Feb-2017|[html](/doc/dev46/ssi_reference-V2.htm) [pdf](/doc/dev46/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 |
