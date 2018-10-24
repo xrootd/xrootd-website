@@ -16,8 +16,8 @@ Documentation
 |:---------:|:----------------------------------------------------------------------:|------------------------------------------------------------------------------|
 |14-Aug-2015|[html](/doc/dev42/Syntax_config.htm) [pdf](/doc/dev42/Syntax_config.pdf)  |Configuration File Syntax (4.x)                                               |
 |27-Jul-2018|[html](/doc/dev49/Syntax_config.htm) [pdf](/doc/dev49/Syntax_config.pdf)  |Configuration File Syntax (4.9)                                               |
-|20-May-2017|[html](/doc/dev47/xrd_config.htm) [pdf](/doc/dev47/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.7)                            |
-|27-Oct-2017|[html](/doc/dev48/xrd_config.htm) [pdf](/doc/dev48/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.8)                            |
+|20-May-2017|[html](/doc/dev47/xrd_config.htm) [pdf](/doc/dev47/xrd_config.pdf)           |Xrd/XRootD Configuration Reference (4.7)                            |
+|27-Oct-2017|[html](/doc/dev48/xrd_config.htm) [pdf](/doc/dev48/xrd_config.pdf)           |Xrd/XRootD Configuration Reference (4.8)                            |
 |27-Oct-2017|[html](/doc/dev48/ofs_config.htm) [pdf](/doc/dev48/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.8)      |
 |24-Aug-2018|[html](/doc/dev49/ofs_config.htm) [pdf](/doc/dev49/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.9)      |
 |11-Jan-2017|[html](/doc/dev46/pss_config.htm) [pdf](/doc/dev46/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.6)    |
@@ -28,6 +28,7 @@ Documentation
 |09-Oct-2016|[html](/doc/dev45/sec_config.htm) [pdf](/doc/dev45/sec_config.pdf)        |Security Configuration Reference (4.5)                                         |
 |27-Oct-2017|[html](/doc/dev47/sec_config.htm) [pdf](/doc/dev47/sec_config.pdf)        |Security Configuration Reference (4.7)                                         |
 |22-Jul-2018|[html](/doc/dev49/sec_config.htm) [pdf](/doc/dev49/sec_config.pdf)        |Security Configuration Reference (4.9)                                         |
+|22-Oct-2018|[html](/doc/dev49/XRootDGSISpec.htm) [pdf](/doc/dev49/XRootDGSISpec.pdf)        |XRootD GSI Protocol Specification
 |17-Sep-2018|[html](/doc/dev44/xrd_monitoring.htm) [pdf](/doc/dev44/xrd_monitoring.pdf)|System Monitoring Reference (4.4)                                           |
 |04-Dec-2013|[html](/doc/dev4/frm_config.htm) [pdf](/doc/dev4/frm_config.pdf)          |File Residency Manager Reference (4.x)                                  |
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
