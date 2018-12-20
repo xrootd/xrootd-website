@@ -18,6 +18,7 @@ Documentation
 |27-Jul-2018|[html](/doc/dev49/Syntax_config.htm) [pdf](/doc/dev49/Syntax_config.pdf)  |Configuration File Syntax (4.9)                                               |
 |20-May-2017|[html](/doc/dev47/xrd_config.htm) [pdf](/doc/dev47/xrd_config.pdf)           |Xrd/XRootD Configuration Reference (4.7)                            |
 |27-Oct-2017|[html](/doc/dev48/xrd_config.htm) [pdf](/doc/dev48/xrd_config.pdf)           |Xrd/XRootD Configuration Reference (4.8)                            |
+|19-Dec-2018|[html](/doc/dev50/xrd_config.htm) [pdf](/doc/dev50/xrd_config.pdf)           |Xrd/XRootD Configuration Reference (5.0)                            |
 |27-Oct-2017|[html](/doc/dev48/ofs_config.htm) [pdf](/doc/dev48/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.8)      |
 |24-Aug-2018|[html](/doc/dev49/ofs_config.htm) [pdf](/doc/dev49/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.9)      |
 |11-Jan-2017|[html](/doc/dev46/pss_config.htm) [pdf](/doc/dev46/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.6)    |
