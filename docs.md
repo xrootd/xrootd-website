@@ -37,6 +37,7 @@ Documentation
 |09-Feb-2017|[html](/doc/dev46/ssi_reference-V2.htm) [pdf](/doc/dev46/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 |
 |13-Feb-2018|[html](/doc/dev49/ssi_reference-V2.htm) [pdf](/doc/dev49/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 (4.9) |
 |06-Dec-2018|[html](/doc/dev50/ssi_reference-V3.htm) [pdf](/doc/dev50/ssi_reference-V3.pdf) |XRootD Scalable Service Interface Reference V3 (5.0) |
+|08-Mar-2019|[html](/doc/xrdcl-docs/www/xrdcldocs.html) [pdf](/doc/xrdcl-docs/xrdcldocs.pdf) |XRootD Client Configuration &amp; API Reference (4.9)
 |28-May-2018|[html](/doc/dev45/XRdv310.htm) [pdf](/doc/dev45/XRdv310.pdf)              |XRootD Protocol Reference (Version 3.1.0)                                     |
 |17-Dec-2018|[html](/doc/dev49/XRdv400.htm) [pdf](/doc/dev45/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0 tentative)                                     |
 |21-Oct-2016|[html](/doc/dev4/tpc_protocol.htm) [pdf](/doc/dev4/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 1)                                     |
