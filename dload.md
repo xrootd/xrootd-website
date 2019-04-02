@@ -18,6 +18,7 @@ the source tarballs:
 
 |Date      |File                                                       |Size         |Checksum                        |Comment      |
 |:--------:|:---------------------------------------------------------:|:-----------:|:------------------------------:|:-----------:|
+|2019-04-02|[xrootd-4.8.6.tar.gz](/download/v4.8.6/xrootd-4.8.6.tar.gz)|2396858 bytes|198ba1be6f3ffa0f9231d52e18d0c5e6|Version 4.8.6|
 |2019-02-22|[xrootd-4.9.0.tar.gz](/download/v4.9.0/xrootd-4.9.0.tar.gz)|2517614 bytes|6729c948e1d3feb5df78bdde96ec1b93|Version 4.9.0|
 |2018-10-22|[xrootd-4.8.5.tar.gz](/download/v4.8.5/xrootd-4.8.5.tar.gz)|2396436 bytes|992f831702a95fde1286091f54cc9b50|Version 4.8.5|
 |2018-07-06|[xrootd-4.8.4.tar.gz](/download/v4.8.4/xrootd-4.8.4.tar.gz)|2390944 bytes|b45e369718093a2a66534884a55ed242|Version 4.8.4|
