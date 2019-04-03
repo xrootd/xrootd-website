@@ -21,7 +21,7 @@ Documentation
 |19-Dec-2018|[html](/doc/dev50/xrd_config.htm) [pdf](/doc/dev50/xrd_config.pdf)           |Xrd/XRootD Configuration Reference (5.0)                            |
 |27-Oct-2017|[html](/doc/dev48/ofs_config.htm) [pdf](/doc/dev48/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.8)      |
 |24-Aug-2018|[html](/doc/dev49/ofs_config.htm) [pdf](/doc/dev49/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.9)      |
-|01-Feb-2019|[html](/doc/dev50/ofs_config.htm) [pdf](/doc/dev50/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.0)      |
+|02-Apr-2019|[html](/doc/dev50/ofs_config.htm) [pdf](/doc/dev50/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.0)      |
 |11-Jan-2017|[html](/doc/dev46/pss_config.htm) [pdf](/doc/dev46/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.6)    |
 |28-Jun-2017|[html](/doc/dev47/pss_config.htm) [pdf](/doc/dev47/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.7)    |
 |18-Sep-2018|[html](/doc/dev49/pss_config.htm) [pdf](/doc/dev49/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.9)    |
@@ -36,7 +36,7 @@ Documentation
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
 |09-Feb-2017|[html](/doc/dev46/ssi_reference-V2.htm) [pdf](/doc/dev46/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 |
 |13-Feb-2018|[html](/doc/dev49/ssi_reference-V2.htm) [pdf](/doc/dev49/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 (4.9) |
-|06-Dec-2018|[html](/doc/dev50/ssi_reference-V3.htm) [pdf](/doc/dev50/ssi_reference-V3.pdf) |XRootD Scalable Service Interface Reference V3 (5.0) |
+|22-Mar-2019|[html](/doc/dev50/ssi_reference-V3.htm) [pdf](/doc/dev50/ssi_reference-V3.pdf) |XRootD Scalable Service Interface Reference V3 (5.0) |
 |08-Mar-2019|[html](/doc/xrdcl-docs/www/xrdcldocs.html) [pdf](/doc/xrdcl-docs/xrdcldocs.pdf) |XRootD Client Configuration &amp; API Reference (4.9)
 |28-May-2018|[html](/doc/dev45/XRdv310.htm) [pdf](/doc/dev45/XRdv310.pdf)              |XRootD Protocol Reference (Version 3.1.0)                                     |
 |17-Dec-2018|[html](/doc/dev49/XRdv400.htm) [pdf](/doc/dev45/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0 tentative)                                     |
