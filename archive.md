@@ -7,6 +7,7 @@ tab:    archive
 Upgrade information
 -------------------
 
+* [**Migration to 4.x.x warning: xrdcp dCache compatability**](/2015/05/01/migration_warning_xrdcp_4_x_x.html)
 * [**Migration to 3.3.0 warning**](/2013/02/25/migration_warning_3_3_0.html)
 * [**Migration to 3.2.x warning**](/2012/05/11/migration_warning_3_2_x.html)
 * [**Upgrading to 3.1.0 or higher**](/2012/04/19/migration_warning_3_1_0.html)
@@ -17,17 +18,22 @@ Past Documentation
 |Date       |Files                                                                 |Description                                                                     |
 |:---------:|:----------------------------------------------------------------------:|------------------------------------------------------------------------------|
 |13-Nov-2010|[html](/doc/prod/Syntax_config.htm) [pdf](/doc/prod/Syntax_config.pdf)  |Configuration File Syntax (3.x)                                               |
+|20-May-2017|[html](/doc/dev47/xrd_config.htm) [pdf](/doc/dev47/xrd_config.pdf)           |Xrd/XRootD Configuration Reference (4.7)                            |
 |25-Nov-2015|[html](/doc/dev42/xrd_config.htm) [pdf](/doc/dev42/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.x)                            |
 |12-Dec-2011|[html](/doc/prod/xrd_config.htm) [pdf](/doc/prod/xrd_config.pdf)        |Xrd/XRootd Configuration Reference (3.x)                               |
 |20-Jun-2012|[html](/doc/prod/ofs_config.htm) [pdf](/doc/prod/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (3.x)      |
+|11-Jan-2017|[html](/doc/dev46/pss_config.htm) [pdf](/doc/dev46/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.6)    |
+|21-Oct-2016|[html](/doc/dev45/cms_config.htm) [pdf](/doc/dev45/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.4)                    |
 |25-Nov-2015|[html](/doc/dev43/cms_config.htm) [pdf](/doc/dev43/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.3)                    |
 |09-Dec-2014|[html](/doc/dev42/cms_config.htm) [pdf](/doc/dev42/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.x)                    |
 |31-Oct-2012|[html](/doc/prod/cms_config.htm) [pdf](/doc/prod/cms_config.pdf)        |Cluster Management Service Configuration Reference (3.x)                    |
+|09-Oct-2016|[html](/doc/dev45/sec_config.htm) [pdf](/doc/dev45/sec_config.pdf)        |Security Configuration Reference (4.5)                                         |
 |15-Oct-2014|[html](/doc/dev41/sec_config.htm) [pdf](/doc/dev41/sec_config.pdf)        |Security Configuration Reference (4.x)                                         |
 |07-Feb-2013|[html](/doc/prod/sec_config.htm) [pdf](/doc/prod/sec_config.pdf)        |Security Configuration Reference (3.xx)                                         |
 |07-Jul-2014|[html](/doc/dev4/xrd_monitoring.htm) [pdf](/doc/dev4/xrd_monitoring.pdf)|System Monitoring Reference (4.x)                                           |
 |15-Jan-2013|[html](/doc/prod/xrd_monitoring.htm) [pdf](/doc/prod/xrd_monitoring.pdf)|System Monitoring Reference (3.x)                                           |
 |06-Feb-2013|[html](/doc/prod/frm_config.htm) [pdf](/doc/prod/frm_config.pdf)          |File Residency Manager Reference (3.x)                                  |
+|09-Feb-2017|[html](/doc/dev46/ssi_reference-V2.htm) [pdf](/doc/dev46/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 |
 |23-Mar-2015|[html](/doc/dev42/XRdv300.htm) [pdf](/doc/dev42/XRdv300.pdf)              |XRootD Protocol Reference (Version 3.0.0)                                     |
 |03-Oct-2012|[html](/doc/prod/XRdv299.htm) [pdf](/doc/prod/XRdv299.pdf)              |XRootD Protocol Reference (Version 2.9.9)                                     |
 |20-Nov-2013|[html](/doc/dev4/Plugin_Migration_v4.htm) [pdf](Plugin_Migration_v4.pdf)|Plug-in Writer's 4.x Migration Guide (New!)|
