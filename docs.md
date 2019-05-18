@@ -20,10 +20,12 @@ Documentation
 |19-Dec-2018|[html](/doc/dev50/xrd_config.htm) [pdf](/doc/dev50/xrd_config.pdf)           |Xrd/XRootD Configuration Reference (5.0)                            |
 |27-Oct-2017|[html](/doc/dev48/ofs_config.htm) [pdf](/doc/dev48/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.8)      |
 |24-Aug-2018|[html](/doc/dev49/ofs_config.htm) [pdf](/doc/dev49/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.9)      |
-|02-Apr-2019|[html](/doc/dev50/ofs_config.htm) [pdf](/doc/dev50/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.0)      |
+|18-May-2019|[html](/doc/dev50/ofs_config.htm) [pdf](/doc/dev50/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.0)      |
 |28-Jun-2017|[html](/doc/dev47/pss_config.htm) [pdf](/doc/dev47/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.7)    |
 |18-Sep-2018|[html](/doc/dev49/pss_config.htm) [pdf](/doc/dev49/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.9)    |
+|16-May-2019|[html](/doc/dev410/pss_config.htm) [pdf](/doc/dev410/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.10)    |
 |27-Jul-2018|[html](/doc/dev49/cms_config.htm) [pdf](/doc/dev49/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.9)                    |
+|08-May-2019|[html](/doc/dev410/cms_config.htm) [pdf](/doc/dev410/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.10)                    |
 |27-Oct-2017|[html](/doc/dev47/sec_config.htm) [pdf](/doc/dev47/sec_config.pdf)        |Security Configuration Reference (4.7)                                         |
 |22-Jul-2018|[html](/doc/dev49/sec_config.htm) [pdf](/doc/dev49/sec_config.pdf)        |Security Configuration Reference (4.9)                                         |
 |21-Dec-2018|[html](/doc/gsidocs/XRootDGSIProtocolSpecifications.html) [pdf](/doc/gsidocs/XRootD-GSI-Protocol-Specifications.pdf) |XRootD GSI Protocol Specification
