@@ -39,7 +39,7 @@ Documentation
 |28-May-2018|[html](/doc/dev45/XRdv310.htm) [pdf](/doc/dev45/XRdv310.pdf)              |XRootD Protocol Reference (Version 3.1.0)                                     |
 |17-Dec-2018|[html](/doc/dev49/XRdv400.htm) [pdf](/doc/dev45/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0 tentative)                                     |
 |21-Oct-2016|[html](/doc/dev4/tpc_protocol.htm) [pdf](/doc/dev4/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 1)                                     |
-|24-Aug-2018|[html](/doc/dev49/tpc_protocol.htm) [pdf](/doc/dev49/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 2)                                     |
+|24-Oct-2018|[html](/doc/dev49/tpc_protocol.htm) [pdf](/doc/dev49/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 2)                                     |
 |05-Dec-2013|[html](http://xrootd.org/doc/doxygen/current/html/annotated.html)|Doxygen Docs|
 |26-Apr-2012|[html](http://xrootd.org/doc/python/xrootd-python/)|Python Bindings|
 
