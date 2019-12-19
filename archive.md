@@ -29,6 +29,7 @@ Past Documentation
 |21-Oct-2016|[html](/doc/dev45/cms_config.htm) [pdf](/doc/dev45/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.4)                    |
 |25-Nov-2015|[html](/doc/dev43/cms_config.htm) [pdf](/doc/dev43/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.3)                    |
 |09-Dec-2014|[html](/doc/dev42/cms_config.htm) [pdf](/doc/dev42/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.x)                    |
+|27-Jul-2018|[html](/doc/dev49/cms_config.htm) [pdf](/doc/dev49/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.9)                    |
 |31-Oct-2012|[html](/doc/prod/cms_config.htm) [pdf](/doc/prod/cms_config.pdf)        |Cluster Management Service Configuration Reference (3.x)                    |
 |27-Oct-2017|[html](/doc/dev47/sec_config.htm) [pdf](/doc/dev47/sec_config.pdf)        |Security Configuration Reference (4.7)                                         |
 |09-Oct-2016|[html](/doc/dev45/sec_config.htm) [pdf](/doc/dev45/sec_config.pdf)        |Security Configuration Reference (4.5)                                         |
