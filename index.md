@@ -29,7 +29,7 @@ Quick Links
  * [Scalla-Intro.pdf](/papers/Scalla-Intro.pdf) - an overview of the xrootd
    system
  * {{ "" | latest_release_url }} - the latest version of the software
- * [Release Notes](https://github.com/xrootd/xrootd/blob/v4.11.1/docs/ReleaseNotes.txt) - a list of significant changes
+ * [Release Notes](https://github.com/xrootd/xrootd/blob/v4.11.2/docs/ReleaseNotes.txt) - a list of significant changes
    between the releases
  * [GitHub repository](https://github.com/xrootd/xrootd) - repository browser
  * [GitHub bug tracking](https://github.com/xrootd/xrootd/issues) - report and
