@@ -79,7 +79,7 @@ files for /etc/yum.repos.d are available below:
   [xrootd-testing-slc5.repo](/binaries/xrootd-testing-slc5.repo),
   [xrootd-testing-slc6.repo](/binaries/xrootd-testing-slc6.repo),
   [xrootd-testing-slc7.repo](/binaries/xrootd-testing-slc7.repo),
-  [xrootd-testing-slc8.repo](/binaries/xrootd-testing.slc8.repo)
+  [xrootd-testing-slc8.repo](/binaries/xrootd-testing-slc8.repo)
 * Experimental
   [xrootd-experimental-slc6.repo](/binaries/xrootd-experimental-slc6.repo),
   [xrootd-experimental-slc7.repo](/binaries/xrootd-experimental-slc7.repo)
