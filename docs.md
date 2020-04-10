@@ -34,7 +34,7 @@ Documentation
 |22-Mar-2019|[html](/doc/dev50/ssi_reference-V3.htm) [pdf](/doc/dev50/ssi_reference-V3.pdf) |XRootD Scalable Service Interface Reference V3 (5.0) |
 |08-Mar-2019|[html](/doc/xrdcl-docs/www/xrdcldocs.html) [pdf](/doc/xrdcl-docs/xrdcldocs.pdf) |XRootD Client Configuration &amp; API Reference (4.9)
 |28-May-2018|[html](/doc/dev45/XRdv310.htm) [pdf](/doc/dev45/XRdv310.pdf)              |XRootD Protocol Reference (Version 3.1.0)                                     |
-|17-Jan-2020|[html](/doc/dev50/XRdv400.htm) [pdf](/doc/dev50/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0 tentative)                                     |
+|02-Apr-2020|[html](/doc/dev50/XRdv400.htm) [pdf](/doc/dev50/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0 tentative)                                     |
 |21-Oct-2016|[html](/doc/dev4/tpc_protocol.htm) [pdf](/doc/dev4/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 1)                                     |
 |21-Jan-2020|[html](/doc/dev49/tpc_protocol.htm) [pdf](/doc/dev49/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 2)                                     |
 |05-Dec-2013|[html](http://xrootd.org/doc/doxygen/current/html/annotated.html)|Doxygen Docs|
