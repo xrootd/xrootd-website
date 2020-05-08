@@ -13,11 +13,12 @@ You can get the most recent source tree by cloning our main git repository:
 
 Please make sure to check for any [**warnings**](docs.html) about known release
 issues and other [upgrade information](docs.html) prior to installing a release.
-You can also read the [RELEASE NOTES](https://github.com/xrootd/xrootd/blob/v4.11.3/docs/ReleaseNotes.txt) and download
+You can also read the [RELEASE NOTES](https://github.com/xrootd/xrootd/blob/v4.12.0/docs/ReleaseNotes.txt) and download
 the source tarballs:
 
 |Date      |File                                                       |Size         |Checksum                        |Comment      |
 |:--------:|:---------------------------------------------------------:|:-----------:|:------------------------------:|:-----------:|
+|2020-05-08|[xrootd-4.12.0.tar.gz](/download/v4.12.0/xrootd-4.12.0.tar.gz)|2564041 bytes|1fb9f0f299ab233945fb9bb129f2c2d1|Version 4.12.0|
 |2020-03-23|[xrootd-4.11.3.tar.gz](/download/v4.11.3/xrootd-4.11.3.tar.gz)|2555181 bytes|d5965ec76d6c028aa7f99b4d742965c4|Version 4.11.3|
 |2020-02-03|[xrootd-4.11.2.tar.gz](/download/v4.11.2/xrootd-4.11.2.tar.gz)|2551556 bytes|065f8c1d51fdb8b109d2e42e457175f1|Version 4.11.2|
 |2019-12-17|[xrootd-4.11.1.tar.gz](/download/v4.11.1/xrootd-4.11.1.tar.gz)|2549971 bytes|3a243f7d4c9868cead59c5861530ebce|Version 4.11.1|
