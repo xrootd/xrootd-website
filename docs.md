@@ -20,7 +20,7 @@ Documentation
 |24-Aug-2018|[html](/doc/dev49/ofs_config.htm) [pdf](/doc/dev49/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.9)      |
 |17-Mar-2020|[html](/doc/dev50/ofs_config.htm) [pdf](/doc/dev50/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.0)      |
 |16-May-2019|[html](/doc/dev410/pss_config.htm) [pdf](/doc/dev410/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.10)    |
-|27-Mar-2020|[html](/doc/dev50/pss_config.htm) [pdf](/doc/dev50/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.0)    |
+|18-May-2020|[html](/doc/dev50/pss_config.htm) [pdf](/doc/dev50/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.0)    |
 |08-May-2019|[html](/doc/dev410/cms_config.htm) [pdf](/doc/dev410/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.10)                    |
 |14 Apr-2020|[html](/doc/dev50/cms_config.htm) [pdf](/doc/dev50/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.0)                    |
 |22-Jul-2018|[html](/doc/dev49/sec_config.htm) [pdf](/doc/dev49/sec_config.pdf)        |Security Configuration Reference (4.9)                                         |
