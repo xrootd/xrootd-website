@@ -24,7 +24,7 @@ Documentation
 |08-May-2019|[html](/doc/dev410/cms_config.htm) [pdf](/doc/dev410/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.10)                    |
 |14 Apr-2020|[html](/doc/dev50/cms_config.htm) [pdf](/doc/dev50/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.0)                    |
 |22-Jul-2018|[html](/doc/dev49/sec_config.htm) [pdf](/doc/dev49/sec_config.pdf)        |Security Configuration Reference (4.9)                                         |
-|19-May-2020|[html](/doc/dev50/sec_config.htm) [pdf](/doc/dev50/sec_config.pdf)        |Security Configuration Reference (5.0)                                         |
+|05-Jun-2020|[html](/doc/dev50/sec_config.htm) [pdf](/doc/dev50/sec_config.pdf)        |Security Configuration Reference (5.0)                                         |
 |21-Dec-2018|[html](/doc/gsidocs/XRootDGSIProtocolSpecifications.html) [pdf](/doc/gsidocs/XRootD-GSI-Protocol-Specifications.pdf) |XRootD GSI Protocol Specification
 |17-Sep-2018|[html](/doc/dev44/xrd_monitoring.htm) [pdf](/doc/dev44/xrd_monitoring.pdf)|System Monitoring Reference (4.4)                                           |
 |02-Dec-2019|[html](/doc/dev50/xrd_monitoring.htm) [pdf](/doc/dev50/xrd_monitoring.pdf)|System Monitoring Reference (5.0)                                           |
