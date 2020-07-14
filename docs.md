@@ -7,7 +7,7 @@ tab:    docs
 Upgrade information
 -------------------
 
-* No known upgrade issues.
+[Known Release 5 Issues and Bypasses](/doc/dev50/R5-Issues.htm) (updated 7/13/20)
 
 Documentation
 -------------

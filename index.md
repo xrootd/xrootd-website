@@ -38,6 +38,7 @@ Quick Links
 News
 ----
 
+ * [Known Release 5 Issues and Bypasses](/doc/dev50/R5-Issues.htm) (updated 7/13/20)
  * [Pre-4.9.0 clients reject long-lived certificates!](/doc/news/x509-prob.html)
 
 \[[RSS](/rss.xml)\]
