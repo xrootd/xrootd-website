@@ -7,7 +7,7 @@ tab:    docs
 Upgrade information
 -------------------
 
-[Known Release 5 Issues and Bypasses](/doc/dev50/R5-Issues.htm) (updated 7/13/20)
+[RPMs for known Release 5 Issues](/doc/dev50/R5-Issues.htm) (updated 8/06/20)
 
 Documentation
 -------------
