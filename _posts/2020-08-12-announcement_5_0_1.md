@@ -13,5 +13,3 @@ to the stable yum repositories.
  * Source: [http://xrootd.org/download/v5.0.1/xrootd-5.0.1.tar.gz](http://xrootd.org/download/v5.0.1/xrootd-5.0.1.tar.gz)
  * RPMs: [http://xrootd.cern.ch/sw/releases/5.0.1/rpms/](http://xrootd.cern.ch/sw/releases/5.0.1/rpms/)
  * Release Notes: [https://github.com/xrootd/xrootd/blob/v5.0.1/docs/ReleaseNotes.txt](https://github.com/xrootd/xrootd/blob/v5.0.1/docs/ReleaseNotes.txt)
-
-Please note: starting with version 5.0.1 XRootD protocol supports encryption.
