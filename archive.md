@@ -36,12 +36,14 @@ Past Documentation
 |09-Oct-2016|[html](/doc/dev45/sec_config.htm) [pdf](/doc/dev45/sec_config.pdf)        |Security Configuration Reference (4.5)                                         |
 |15-Oct-2014|[html](/doc/dev41/sec_config.htm) [pdf](/doc/dev41/sec_config.pdf)        |Security Configuration Reference (4.x)                                         |
 |07-Feb-2013|[html](/doc/prod/sec_config.htm) [pdf](/doc/prod/sec_config.pdf)        |Security Configuration Reference (3.xx)                                         |
+|17-Sep-2018|[html](/doc/dev44/xrd_monitoring.htm) [pdf](/doc/dev44/xrd_monitoring.pdf)|System Monitoring Reference (4.4)                                           |
 |07-Jul-2014|[html](/doc/dev4/xrd_monitoring.htm) [pdf](/doc/dev4/xrd_monitoring.pdf)|System Monitoring Reference (4.x)                                           |
 |15-Jan-2013|[html](/doc/prod/xrd_monitoring.htm) [pdf](/doc/prod/xrd_monitoring.pdf)|System Monitoring Reference (3.x)                                           |
 |21-Oct-2016|[html](/doc/dev4/tpc_protocol.htm) [pdf](/doc/dev4/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 1)                                     |
 |06-Feb-2013|[html](/doc/prod/frm_config.htm) [pdf](/doc/prod/frm_config.pdf)          |File Residency Manager Reference (3.x)                                  |
 |09-Feb-2017|[html](/doc/dev46/ssi_reference-V2.htm) [pdf](/doc/dev46/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 |
 |17-Dec-2018|[html](/doc/dev49/XRdv400.htm) [pdf](/doc/dev49/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0 tentative)                                     |
+|28-May-2018|[html](/doc/dev45/XRdv310.htm) [pdf](/doc/dev45/XRdv310.pdf)              |XRootD Protocol Reference (Version 3.1.0)                                     |
 |23-Mar-2015|[html](/doc/dev42/XRdv300.htm) [pdf](/doc/dev42/XRdv300.pdf)              |XRootD Protocol Reference (Version 3.0.0)                                     |
 |03-Oct-2012|[html](/doc/prod/XRdv299.htm) [pdf](/doc/prod/XRdv299.pdf)              |XRootD Protocol Reference (Version 2.9.9)                                     |
 |20-Nov-2013|[html](/doc/dev4/Plugin_Migration_v4.htm) [pdf](Plugin_Migration_v4.pdf)|Plug-in Writer's 4.x Migration Guide (New!)|
