@@ -18,6 +18,7 @@ the source tarballs:
 
 |Date      |File                                                       |Size         |Checksum                        |Comment      |
 |:--------:|:---------------------------------------------------------:|:-----------:|:------------------------------:|:-----------:|
+|2020-09-03|[xrootd-4.12.4.tar.gz](/download/v4.12.4/xrootd-4.12.4.tar.gz)|2577360 bytes|4cfa02532b2a284b987c1c5e51b9dc09|version 4.12.3|
 |2020-08-12|[xrootd-5.0.1.tar.gz](/download/v5.0.1/xrootd-5.0.1.tar.gz)|2759931 bytes|65ee3cb554c8825afef29aeba9d1f714|Version 5.0.1|
 |2020-07-07|[xrootd-5.0.0.tar.gz](/download/v5.0.0/xrootd-5.0.0.tar.gz)|2754256 bytes|85912c915439533848e4c1864bb8888a|Version 5.0.0|
 |2020-06-11|[xrootd-4.12.3.tar.gz](/download/v4.12.3/xrootd-4.12.3.tar.gz)|2574996 bytes|7367ec81a201b8b9b50b80d38b897be1|Version 4.12.3|
