@@ -25,7 +25,7 @@ Documentation
 |24-Aug-2020|[html](/doc/dev50/pss_config.htm) [pdf](/doc/dev50/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.0)    |
 |09-Sep-2020|[html](/doc/dev51/pss_config.htm) [pdf](/doc/dev51/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.1)    |
 |08-May-2019|[html](/doc/dev410/cms_config.htm) [pdf](/doc/dev410/cms_config.pdf)      |Cluster Management Service Configuration Reference (4.10)                    |
-|14 Apr-2020|[html](/doc/dev50/cms_config.htm) [pdf](/doc/dev50/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.0)                    |
+|15-Oct-2020|[html](/doc/dev50/cms_config.htm) [pdf](/doc/dev50/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.0)                    |
 |22-Jul-2018|[html](/doc/dev49/sec_config.htm) [pdf](/doc/dev49/sec_config.pdf)        |Security Configuration Reference (4.9)                                         |
 |05-Jun-2020|[html](/doc/dev50/sec_config.htm) [pdf](/doc/dev50/sec_config.pdf)        |Security Configuration Reference (5.0)                                         |
 |21-Dec-2018|[html](/doc/gsidocs/XRootDGSIProtocolSpecifications.html) [pdf](/doc/gsidocs/XRootD-GSI-Protocol-Specifications.pdf) |XRootD GSI Protocol Specification
@@ -35,7 +35,7 @@ Documentation
 |23-Jun-2020|[html](/doc/dev50/frm_config.htm) [pdf](/doc/dev50/frm_config.pdf)        |File Residency Manager Reference (5.x)                                  |
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
 |13-Feb-2018|[html](/doc/dev49/ssi_reference-V2.htm) [pdf](/doc/dev49/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 (4.9) |
-|22-Mar-2019|[html](/doc/dev50/ssi_reference-V3.htm) [pdf](/doc/dev50/ssi_reference-V3.pdf) |XRootD Scalable Service Interface Reference V3 (5.0) |
+|15-Oct-2020|[html](/doc/dev50/ssi_reference-V3.htm) [pdf](/doc/dev50/ssi_reference-V3.pdf) |XRootD Scalable Service Interface Reference V3 (5.0) |
 |08-Mar-2019|[html](/doc/xrdcl-docs/www/xrdcldocs.html) [pdf](/doc/xrdcl-docs/xrdcldocs.pdf) |XRootD Client Configuration &amp; API Reference (4.9)
 |12-Oct-2020|[html](/doc/dev50/XRdv400.htm) [pdf](/doc/dev50/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0)                                     |
 |13-Apr-2020|[html](/doc/dev49/tpc_protocol.htm) [pdf](/doc/dev49/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 2)                                     |
