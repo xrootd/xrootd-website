@@ -17,7 +17,7 @@ Documentation
 |27-Jul-2018|[html](/doc/dev49/Syntax_config.htm) [pdf](/doc/dev49/Syntax_config.pdf)  |Configuration File Syntax (4.9)                                               |
 |27-Oct-2017|[html](/doc/dev48/xrd_config.htm) [pdf](/doc/dev48/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (4.8)                            |
 |28-Apr-2020|[html](/doc/dev50/xrd_config.htm) [pdf](/doc/dev50/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.0)                            |
-|20-Aug-2020|[html](/doc/dev51/xrd_config.htm) [pdf](/doc/dev51/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.1)                            |
+|29-Dec-2020|[html](/doc/dev51/xrd_config.htm) [pdf](/doc/dev51/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.1)                            |
 |24-Aug-2018|[html](/doc/dev49/ofs_config.htm) [pdf](/doc/dev49/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.9)      |
 |23-Jun-2020|[html](/doc/dev50/ofs_config.htm) [pdf](/doc/dev50/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.0)      |
 |20-Nov-2020|[html](/doc/dev51/ofs_config.htm) [pdf](/doc/dev51/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.1)      |
