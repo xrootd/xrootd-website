@@ -17,7 +17,7 @@ Documentation
 |27-Jul-2018|[html](/doc/dev49/Syntax_config.htm) [pdf](/doc/dev49/Syntax_config.pdf)  |Configuration File Syntax (4.9)                                               |
 |27-Oct-2017|[html](/doc/dev48/xrd_config.htm) [pdf](/doc/dev48/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (4.8)                            |
 |28-Apr-2020|[html](/doc/dev50/xrd_config.htm) [pdf](/doc/dev50/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.0)                            |
-|29-Dec-2020|[html](/doc/dev51/xrd_config.htm) [pdf](/doc/dev51/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.1)                            |
+|06-Jan-2021|[html](/doc/dev51/xrd_config.htm) [pdf](/doc/dev51/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.1)                            |
 |24-Aug-2018|[html](/doc/dev49/ofs_config.htm) [pdf](/doc/dev49/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.9)      |
 |23-Jun-2020|[html](/doc/dev50/ofs_config.htm) [pdf](/doc/dev50/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.0)      |
 |20-Nov-2020|[html](/doc/dev51/ofs_config.htm) [pdf](/doc/dev51/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.1)      |
@@ -37,7 +37,7 @@ Documentation
 |13-Feb-2018|[html](/doc/dev49/ssi_reference-V2.htm) [pdf](/doc/dev49/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 (4.9) |
 |15-Oct-2020|[html](/doc/dev50/ssi_reference-V3.htm) [pdf](/doc/dev50/ssi_reference-V3.pdf) |XRootD Scalable Service Interface Reference V3 (5.0) |
 |08-Mar-2019|[html](/doc/xrdcl-docs/www/xrdcldocs.html) [pdf](/doc/xrdcl-docs/xrdcldocs.pdf) |XRootD Client Configuration &amp; API Reference (4.9)
-|11-Nov-2020|[html](/doc/dev50/XRdv400.htm) [pdf](/doc/dev50/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0)                                     |
+|06-Jan-2021|[html](/doc/dev50/XRdv400.htm) [pdf](/doc/dev50/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0)                                     |
 |13-Apr-2020|[html](/doc/dev49/tpc_protocol.htm) [pdf](/doc/dev49/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 2)                                     |
 |05-Dec-2013|[html](http://xrootd.org/doc/doxygen/current/html/annotated.html)|Doxygen Docs|
 |26-Apr-2012|[html](http://xrootd.org/doc/python/xrootd-python/)|Python Bindings|
