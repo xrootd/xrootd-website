@@ -13,16 +13,17 @@ You can get the most recent source tree by cloning our main git repository:
 
 Please make sure to check for any [**warnings**](docs.html) about known release
 issues and other [upgrade information](docs.html) prior to installing a release.
-You can also read the [RELEASE NOTES](https://github.com/xrootd/xrootd/blob/v5.0.3/docs/ReleaseNotes.txt) and download
+You can also read the [RELEASE NOTES](https://github.com/xrootd/xrootd/blob/v5.1.0/docs/ReleaseNotes.txt) and download
 the source tarballs:
 
 |Date      |File                                                       |Size         |Checksum                        |Comment      |
 |:--------:|:---------------------------------------------------------:|:-----------:|:------------------------------:|:-----------:|
+|2021-02-23|[xrootd-5.1.0.tar.gz](/download/v5.1.0/xrootd-5.0.3.tar.gz)|2862622 bytes|531310ba1c96a27bc2f28770fae9c99f|Version 5.1.0|
 |2020-12-11|[xrootd-4.12.6.tar.gz](/download/v4.12.6/xrootd-4.12.6.tar.gz)|2582052 bytes|6e35dea612e95fb23bae720baf952004|Version 4.12.6|
 |2020-11-11|[xrootd-5.0.3.tar.gz](/download/v5.0.3/xrootd-5.0.3.tar.gz)|2766694 bytes|dfa4b4845be4bd3e4f3456ac8a202ae0|Version 5.0.3|
 |2020-10-16|[xrootd-4.12.5.tar.gz](/download/v4.12.5/xrootd-4.12.5.tar.gz)|2580794 bytes|d15d3e700001e48ab2cce6c83879a17e|Version 4.12.5|
 |2020-09-18|[xrootd-5.0.2.tar.gz](/download/v5.0.2/xrootd-5.0.2.tar.gz)|2764503 bytes|4488ead0875f88b7e44deef8eb87136a|Version 5.0.2|
-|2020-09-03|[xrootd-4.12.4.tar.gz](/download/v4.12.4/xrootd-4.12.4.tar.gz)|2577360 bytes|4cfa02532b2a284b987c1c5e51b9dc09|Version 4.12.3|
+|2020-09-03|[xrootd-4.12.4.tar.gz](/download/v4.12.4/xrootd-4.12.4.tar.gz)|2577360 bytes|4cfa02532b2a284b987c1c5e51b9dc09|Version 4.12.4|
 |2020-08-12|[xrootd-5.0.1.tar.gz](/download/v5.0.1/xrootd-5.0.1.tar.gz)|2759931 bytes|65ee3cb554c8825afef29aeba9d1f714|Version 5.0.1|
 |2020-07-07|[xrootd-5.0.0.tar.gz](/download/v5.0.0/xrootd-5.0.0.tar.gz)|2754256 bytes|85912c915439533848e4c1864bb8888a|Version 5.0.0|
 |2020-06-11|[xrootd-4.12.3.tar.gz](/download/v4.12.3/xrootd-4.12.3.tar.gz)|2574996 bytes|7367ec81a201b8b9b50b80d38b897be1|Version 4.12.3|
