@@ -14,4 +14,4 @@ to the stable yum repositories.
  * RPMs: [http://xrootd.cern.ch/sw/releases/5.1.1/rpms/](http://xrootd.cern.ch/sw/releases/5.1.1/rpms/)
  * Release Notes: [https://github.com/xrootd/xrootd/blob/v5.1.1/docs/ReleaseNotes.txt](https://github.com/xrootd/xrootd/blob/v5.1.1/docs/ReleaseNotes.txt)
 
-Note: Please note that xrdfs ls will is now complient with shell semantics in case of file arguments.
+Note: Please note that xrdfs ls is now complient with shell semantics in case of file arguments.
