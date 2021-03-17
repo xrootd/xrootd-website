@@ -7,6 +7,7 @@ tab:    archive
 Upgrade information
 -------------------
 
+* [RPMs for known Release 5 Issues](/doc/dev50/R5-Issues.htm) (updated 8/06/20)
 * [**Migration to 4.x.x warning: xrdcp dCache compatability**](/2015/05/01/migration_warning_xrdcp_4_x_x.html)
 * [**Migration to 3.3.0 warning**](/2013/02/25/migration_warning_3_3_0.html)
 * [**Migration to 3.2.x warning**](/2012/05/11/migration_warning_3_2_x.html)
@@ -19,6 +20,7 @@ Past Documentation
 |:---------:|:----------------------------------------------------------------------:|------------------------------------------------------------------------------|
 |14-Aug-2015|[html](/doc/dev42/Syntax_config.htm) [pdf](/doc/dev42/Syntax_config.pdf)  |Configuration File Syntax (4.x)                                               |
 |13-Nov-2010|[html](/doc/prod/Syntax_config.htm) [pdf](/doc/prod/Syntax_config.pdf)  |Configuration File Syntax (3.x)                                               |
+|28-Apr-2020|[html](/doc/dev50/xrd_config.htm) [pdf](/doc/dev50/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.0)                            |
 |20-May-2017|[html](/doc/dev47/xrd_config.htm) [pdf](/doc/dev47/xrd_config.pdf)           |Xrd/XRootD Configuration Reference (4.7)                            |
 |25-Nov-2015|[html](/doc/dev42/xrd_config.htm) [pdf](/doc/dev42/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.x)                            |
 |12-Dec-2011|[html](/doc/prod/xrd_config.htm) [pdf](/doc/prod/xrd_config.pdf)        |Xrd/XRootd Configuration Reference (3.x)                               |
