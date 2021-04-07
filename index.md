@@ -26,6 +26,7 @@ Quick Links
 -----------
  * [LICENSE](COPYING.LGPL.txt) - XRootD is distributed under the terms of the
    GNU LGPL License
+ * [Policies](policies/SWRSP.htm) - Software Release and Support Policy
  * [Scalla-Intro.pdf](/papers/Scalla-Intro.pdf) - an overview of the xrootd
    system
  * {{ "" | latest_release_url }} - the latest version of the software

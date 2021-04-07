@@ -1,0 +1,268 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 12 (filtered)">
+<title>XRootD_Release_Policy</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Palatino Linotype";
+	panose-1:2 4 5 2 5 5 5 3 3 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Palatino Linotype","serif";}
+p
+	{margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{font-size:12.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US>
+
+<div class=WordSection1>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+0in;background:white'><b><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>Software
+Release and Support Policy</span></b></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+0in;background:white'><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>This
+document describes the <b>XRootD</b> policy for managing its software releases
+and release support policy. Use this information to help plan when to perform
+major <b>XRootD</b> software updates at your site.</span></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+0in;background:white'><b><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>Software
+releases</span></b></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+0in;background:white'><b><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>XRootD</span></b><span
+style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'> software
+releases are organized into&nbsp;<strong><span style='font-family:"Helvetica","sans-serif"'>major,
+minor </span></strong><strong><span style='font-family:"Helvetica","sans-serif";
+font-weight:normal'>and</span></strong><strong><span style='font-family:"Helvetica","sans-serif"'>
+patch </span></strong><strong><span style='font-family:"Helvetica","sans-serif";
+font-weight:normal'>versions</span></strong>, with the intent that installing minor
+version releases with the same major version do not take long to perform, cause
+significant downtime, or break dependent software. New major versions can be
+more disruptive, and may substantially change or remove software components.
+Releases are assigned version numbers, such as &quot;3.2.1&quot;, where:</span></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+.5in;text-indent:-.25in;background:white'><span style='font-size:13.5pt;
+font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>The
+first number designates a <b>major version</b>. Major versions may introduce
+binary incompatibility with previous major versions and may require code
+dependent on libraries in the new major version to be recompiled. Generally,
+such requirements are limited to code that enhances <b>XRootD</b> functionality
+(e.g. plug-ins). User application code that only uses public API’s should
+continue to work unchanged. Consequently, major versions are infrequent and are
+introduce approximately every 5 years.</span></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+.5in;text-indent:-.25in;background:white'><span style='font-size:13.5pt;
+font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>The
+second number increments within the major version and designates a minor version.
+Minor versions introduce new features within a major version. They are binary
+compatible with all versions within the major version and occur as often as
+needed to address community needs. On average, there are about four minor versions
+per year.</span></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+.5in;text-indent:-.25in;background:white'><span style='font-size:13.5pt;
+font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>The
+last digit increments whenever changes are applied to a minor version to fix
+problems. These occur at random frequency, as often as needed to fix problems.
+Since patch versions represent the minimum change necessary to fix a problem
+they provide the forward path for problem resolution.</span></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+.5in;text-indent:-.25in;background:white'><span style='font-size:13.5pt;
+font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>When
+the first number increments, the second and third numbers are reset to zero and
+when the second number increments the third number is reset to zero. </span></p>
+
+<b><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'><br
+clear=all style='page-break-before:always'>
+</span></b>
+
+<p class=MsoNormal><b><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>&nbsp;</span></b></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+0in;background:white'><b><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>Release
+support policy</span></b></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+0in;background:white'><b><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>XRootD</span></b><span
+style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'> supports at most
+two concurrent major versions,&nbsp;<strong><span style='font-family:"Helvetica","sans-serif"'>current</span></strong>&nbsp;and&nbsp;<strong><span
+style='font-family:"Helvetica","sans-serif"'>previous</span></strong>, as
+follows:</span></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+.5in;text-indent:-.25in;background:white'><span style='font-size:13.5pt;
+font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>When
+a major version is introduced it becomes the <b>current</b> version. The <b>previous</b>
+version is the highest numbered version in the immediate prior major version.
+The previous version is fully supported for six months and certain changes in
+the current version may be back ported to the previous version as long as the
+back port does not involve extensive changes or introduce incompatibilities in
+the previous version. After six months the previous version is supported only
+to the extent to fix critical software and security bugs. Thus the highest
+numbered previous version is considered supported for a full year after a new
+major version is released.</span></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+.5in;text-indent:-.25in;background:white'><span style='font-size:13.5pt;
+font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>When
+a minor version is introduced it becomes the platform to fix any problems in
+any prior version within that major version. However, all prior versions within
+the major series are still supported for problem resolution for a full year
+after the new minor version is released.</span></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+.5in;text-indent:-.25in;background:white'><span style='font-size:13.5pt;
+font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>When
+a patch version is introduced it does not change the support level for any
+previous patch version. That means the support policy is only based on major
+and minor versions as described above.</span></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+.5in;text-indent:-.25in;background:white'><span style='font-size:13.5pt;
+font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>Sites
+are expected to migrate to a supported version within the major version that fixes
+a reported problem; which may require migrating to a new minor version. This
+means that problems reported in any supported prior version are always fixed in
+the most recent minor version (i.e. highest numbered version within a supported
+major version).</span></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+0in;background:white'><b><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>Support
+policy for non-public API’s</span></b></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+0in;background:white'><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>When
+code uses a non-public API (i.e. any definition in xrootd/private) it is considered
+not supported. Non-public API’s are made available for historical reasons.
+These API’s may change at any time and may require code dependent on such
+private API’s to be recompiled or, at worst, rewritten whenever a new release
+of any kind becomes available. Consequently, they are only installed when
+specifically requested. The use of private API’s is highly discouraged.</span></p>
+
+<b><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'><br
+clear=all style='page-break-before:always'>
+</span></b>
+
+<p class=MsoNormal><b><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>&nbsp;</span></b></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+0in;background:white'><b><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>End
+of life policy</span></b></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+.5in;text-indent:-.25in;background:white'><span style='font-size:13.5pt;
+font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>End
+of life for a major version is announced on the <b>XRootD</b> web site at least
+4 months in advance.</span></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+.5in;text-indent:-.25in;background:white'><span style='font-size:13.5pt;
+font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>There
+is no official announcement when a minor version reaches end of life because
+migrating to a new minor version should be no more difficult than migrating to
+a new patch version.</span></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+.5in;text-indent:-.25in;background:white'><span style='font-size:13.5pt;
+font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>When
+a version reaches end of life it means that the <b>XRootD</b> team no longer
+updates the software, fixes issues, or troubleshoots installations with such
+versions.</span></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+0in;background:white'><b><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>Backward
+compatibility</span></b></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+.5in;text-indent:-.25in;background:white'><span style='font-size:13.5pt;
+font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><b><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>XRootD</span></b><span
+style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'> strives to keep
+configuration files backward compatible. However, incompatibilities may occur
+when a site mixes old directives with newly introduced directives.  In the
+absence of conflicting directives, configuration files should be backward
+compatible for two major versions (typically10 years). Incompatibilities in
+pre-existing configuration files are considered bugs and should be immediately
+reported so that they can be fixed.</span></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+.5in;text-indent:-.25in;background:white'><span style='font-size:13.5pt;
+font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><b><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>XRootD</span></b><span
+style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'> always keeps
+backward compatibility between clients and servers for at least 3 major
+versions (typically 15 years). However, older clients are restricted to the
+features available in their respective version and newer clients are restricted
+to the features provided by older servers. Consequently, they only interoperate
+within their intersecting feature sets subject to any further restrictions that
+may be enforced by a site for security purposes.</span></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+0in;background:white'><b><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>Software
+availability</span></b></p>
+
+<p style='margin-top:12.0pt;margin-right:0in;margin-bottom:12.0pt;margin-left:
+0in;background:white'><span style='font-size:13.5pt;font-family:"Helvetica","sans-serif"'>The
+<b>XRootD</b> web site provides source and RPM level access to at least two
+major versions. Access to versions from other distributors (e.g. EPEL and OSG)
+is dictated by the policies of their respective organizations.</span></p>
+
+</div>
+
+</body>
+
+</html>
