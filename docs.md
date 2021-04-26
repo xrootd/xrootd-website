@@ -18,8 +18,8 @@ Documentation
 |06-Jan-2021|[html](/doc/dev51/xrd_config.htm) [pdf](/doc/dev51/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.1)                            |
 |06-Mar-2021|[html](/doc/dev52/xrd_config.htm) [pdf](/doc/dev52/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.2)                            |
 |24-Aug-2018|[html](/doc/dev49/ofs_config.htm) [pdf](/doc/dev49/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.9)      |
-|23-Jun-2020|[html](/doc/dev50/ofs_config.htm) [pdf](/doc/dev50/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.0)      |
 |20-Nov-2020|[html](/doc/dev51/ofs_config.htm) [pdf](/doc/dev51/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.1)      |
+|05-Apr-2021|[html](/doc/dev52/ofs_config.htm) [pdf](/doc/dev52/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.2)      |
 |16-May-2019|[html](/doc/dev410/pss_config.htm) [pdf](/doc/dev410/pss_config.pdf)      |Proxy Storage Services Configuration Reference (4.10)    |
 |24-Aug-2020|[html](/doc/dev50/pss_config.htm) [pdf](/doc/dev50/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.0)    |
 |11-Nov-2020|[html](/doc/dev51/pss_config.htm) [pdf](/doc/dev51/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.1)    |
