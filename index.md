@@ -39,8 +39,8 @@ Quick Links
 News
 ----
 
- * [RPMs for known Release 5 Issues](/doc/dev50/R5-Issues.htm) (updated 8/06/20)
- * [Pre-4.9.0 clients reject long-lived certificates!](/doc/news/x509-prob.html)
+ * Release 4.x series end of life is September 1st, 2021!
+ * Software Release and Support Policy [explained](policies/SWRSP.htm)!
 
 \[[RSS](/rss.xml)\]
 
