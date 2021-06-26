@@ -70,7 +70,9 @@ Presentations and papers
 
 |Date       |Files                                                                 |Description                                                       |
 |:---------:|:--------------------------------------------------------------------:|------------------------------------------------------------------|
+|14-Dec-2020|[pdf](/presentations/GSI-XRootD-Roadmap.pdf)|XRootD Roadmap (Workshop @ GSI, Darmstadt)|
 |26-Nov-2019|[pdf](/presentations/nikolai_doma_access_26.11.2019.pdf)|Update on Xcache tests at LMU Munic (DOMA Access Meeting)|
+|11-Jun-2019|[html](https://indico.cern.ch/event/727208/other-view?view=standard)|XRootD Workshop @ CC-IN2P3, Lyon|
 |08-Nov-2016|[html](https://indico.cern.ch/event/523410/other-view?view=standard)|XRootD Workshop @ ICEPP, Tokyo|
 |27-Jan-2015|[html](https://indico.cern.ch/event/330212/other-view?view=standard)|XRootD Workshop @ UCSD|
 |07-Nov-2014|[pptx](/presentations/COW-141107.pptx) [pdf](/presentations/COW-141107.pdf)|Future of Data Federation (CMS Offline Week)|
