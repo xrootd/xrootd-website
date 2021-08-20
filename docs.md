@@ -36,7 +36,7 @@ Documentation
 |13-Feb-2018|[html](/doc/dev49/ssi_reference-V2.htm) [pdf](/doc/dev49/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 (4.9) |
 |15-Oct-2020|[html](/doc/dev50/ssi_reference-V3.htm) [pdf](/doc/dev50/ssi_reference-V3.pdf) |XRootD Scalable Service Interface Reference V3 (5.0) |
 |08-Mar-2019|[html](/doc/xrdcl-docs/www/xrdcldocs.html) [pdf](/doc/xrdcl-docs/xrdcldocs.pdf) |XRootD Client Configuration &amp; API Reference (4.9)
-|13-Jun-2021|[html](/doc/dev53/XRdv400.htm) [pdf](/doc/dev53/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0)                                     |
+|02-Aug-2021|[html](/doc/dev54/XRdv500.htm) [pdf](/doc/dev54/XRdv500.pdf)              |XRootD Protocol Reference (Version 5.0.0)                                     |
 |13-Apr-2020|[html](/doc/dev49/tpc_protocol.htm) [pdf](/doc/dev49/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 2)                                     |
 |05-Dec-2013|[html](http://xrootd.org/doc/doxygen/current/html/annotated.html)|Doxygen Docs|
 |26-Apr-2012|[html](http://xrootd.org/doc/python/xrootd-python/)|Python Bindings|

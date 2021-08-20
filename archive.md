@@ -48,6 +48,7 @@ Past Documentation
 |21-Oct-2016|[html](/doc/dev4/tpc_protocol.htm) [pdf](/doc/dev4/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 1)                                     |
 |06-Feb-2013|[html](/doc/prod/frm_config.htm) [pdf](/doc/prod/frm_config.pdf)          |File Residency Manager Reference (3.x)                                  |
 |09-Feb-2017|[html](/doc/dev46/ssi_reference-V2.htm) [pdf](/doc/dev46/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 |
+|13-Jun-2021|[html](/doc/dev53/XRdv400.htm) [pdf](/doc/dev53/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0)                                     |
 |06-Mar-2021|[html](/doc/dev52/XRdv400.htm) [pdf](/doc/dev52/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0)                                     |
 |17-Dec-2018|[html](/doc/dev49/XRdv400.htm) [pdf](/doc/dev49/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0 tentative)                                     |
 |28-May-2018|[html](/doc/dev45/XRdv310.htm) [pdf](/doc/dev45/XRdv310.pdf)              |XRootD Protocol Reference (Version 3.1.0)                                     |
