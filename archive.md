@@ -20,33 +20,44 @@ Past Documentation
 |:---------:|:----------------------------------------------------------------------:|------------------------------------------------------------------------------|
 |14-Aug-2015|[html](/doc/dev42/Syntax_config.htm) [pdf](/doc/dev42/Syntax_config.pdf)  |Configuration File Syntax (4.x)                                               |
 |13-Nov-2010|[html](/doc/prod/Syntax_config.htm) [pdf](/doc/prod/Syntax_config.pdf)  |Configuration File Syntax (3.x)                                               |
+|06-Mar-2021|[html](/doc/dev52/xrd_config.htm) [pdf](/doc/dev52/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.2)                            |
 |06-Jan-2021|[html](/doc/dev51/xrd_config.htm) [pdf](/doc/dev51/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.1)                            |
 |28-Apr-2020|[html](/doc/dev50/xrd_config.htm) [pdf](/doc/dev50/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.0)                            |
 |20-May-2017|[html](/doc/dev47/xrd_config.htm) [pdf](/doc/dev47/xrd_config.pdf)           |Xrd/XRootD Configuration Reference (4.7)                            |
 |25-Nov-2015|[html](/doc/dev42/xrd_config.htm) [pdf](/doc/dev42/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.x)                            |
+|27-Oct-2017|[html](/doc/dev48/xrd_config.htm) [pdf](/doc/dev48/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (4.8)                            |
 |12-Dec-2011|[html](/doc/prod/xrd_config.htm) [pdf](/doc/prod/xrd_config.pdf)        |Xrd/XRootd Configuration Reference (3.x)                               |
+|05-Apr-2021|[html](/doc/dev52/ofs_config.htm) [pdf](/doc/dev52/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.2)      |
 |20-Nov-2020|[html](/doc/dev51/ofs_config.htm) [pdf](/doc/dev51/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.1)      |
+|24-Aug-2018|[html](/doc/dev49/ofs_config.htm) [pdf](/doc/dev49/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.9)      |
 |27-Oct-2017|[html](/doc/dev48/ofs_config.htm) [pdf](/doc/dev48/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.8)      |
 |20-Jun-2012|[html](/doc/prod/ofs_config.htm) [pdf](/doc/prod/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (3.x)      |
+|11-Nov-2020|[html](/doc/dev51/pss_config.htm) [pdf](/doc/dev51/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.1)    |
 |24-Aug-2020|[html](/doc/dev50/pss_config.htm) [pdf](/doc/dev50/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.0)    |
+|16-May-2019|[html](/doc/dev410/pss_config.htm) [pdf](/doc/dev410/pss_config.pdf)      |Proxy Storage Services Configuration Reference (4.10)    |
 |18-Sep-2018|[html](/doc/dev49/pss_config.htm) [pdf](/doc/dev49/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.9)    |
 |28-Jun-2017|[html](/doc/dev47/pss_config.htm) [pdf](/doc/dev47/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.7)    |
 |11-Jan-2017|[html](/doc/dev46/pss_config.htm) [pdf](/doc/dev46/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.6)    |
 |15-Oct-2020|[html](/doc/dev50/cms_config.htm) [pdf](/doc/dev50/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.0)                    |
+|08-May-2019|[html](/doc/dev410/cms_config.htm) [pdf](/doc/dev410/cms_config.pdf)      |Cluster Management Service Configuration Reference (4.10)                    |
 |27-Jul-2018|[html](/doc/dev49/cms_config.htm) [pdf](/doc/dev49/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.9)                    |
 |21-Oct-2016|[html](/doc/dev45/cms_config.htm) [pdf](/doc/dev45/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.4)                    |
 |25-Nov-2015|[html](/doc/dev43/cms_config.htm) [pdf](/doc/dev43/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.3)                    |
 |09-Dec-2014|[html](/doc/dev42/cms_config.htm) [pdf](/doc/dev42/cms_config.pdf)        |Cluster Management Service Configuration Reference (4.x)                    |
 |31-Oct-2012|[html](/doc/prod/cms_config.htm) [pdf](/doc/prod/cms_config.pdf)        |Cluster Management Service Configuration Reference (3.x)                    |
+|22-Jul-2018|[html](/doc/dev49/sec_config.htm) [pdf](/doc/dev49/sec_config.pdf)        |Security Configuration Reference (4.9)                                         |
 |27-Oct-2017|[html](/doc/dev47/sec_config.htm) [pdf](/doc/dev47/sec_config.pdf)        |Security Configuration Reference (4.7)                                         |
 |09-Oct-2016|[html](/doc/dev45/sec_config.htm) [pdf](/doc/dev45/sec_config.pdf)        |Security Configuration Reference (4.5)                                         |
 |15-Oct-2014|[html](/doc/dev41/sec_config.htm) [pdf](/doc/dev41/sec_config.pdf)        |Security Configuration Reference (4.x)                                         |
 |07-Feb-2013|[html](/doc/prod/sec_config.htm) [pdf](/doc/prod/sec_config.pdf)        |Security Configuration Reference (3.xx)                                         |
 |17-Sep-2018|[html](/doc/dev44/xrd_monitoring.htm) [pdf](/doc/dev44/xrd_monitoring.pdf)|System Monitoring Reference (4.4)                                           |
+|02-Dec-2019|[html](/doc/dev50/xrd_monitoring.htm) [pdf](/doc/dev50/xrd_monitoring.pdf)|System Monitoring Reference (5.0)                                           |
 |07-Jul-2014|[html](/doc/dev4/xrd_monitoring.htm) [pdf](/doc/dev4/xrd_monitoring.pdf)|System Monitoring Reference (4.x)                                           |
 |15-Jan-2013|[html](/doc/prod/xrd_monitoring.htm) [pdf](/doc/prod/xrd_monitoring.pdf)|System Monitoring Reference (3.x)                                           |
-|21-Oct-2016|[html](/doc/dev4/tpc_protocol.htm) [pdf](/doc/dev4/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 1)                                     |
+get-Oct-2016|[html](/doc/dev4/tpc_protocol.htm) [pdf](/doc/dev4/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 1)                                     |
+|04-Dec-2013|[html](/doc/dev4/frm_config.htm) [pdf](/doc/dev4/frm_config.pdf)          |File Residency Manager Reference (4.x)                                  |
 |06-Feb-2013|[html](/doc/prod/frm_config.htm) [pdf](/doc/prod/frm_config.pdf)          |File Residency Manager Reference (3.x)                                  |
+|13-Feb-2018|[html](/doc/dev49/ssi_reference-V2.htm) [pdf](/doc/dev49/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 (4.9) |
 |09-Feb-2017|[html](/doc/dev46/ssi_reference-V2.htm) [pdf](/doc/dev46/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 |
 |13-Jun-2021|[html](/doc/dev53/XRdv400.htm) [pdf](/doc/dev53/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0)                                     |
 |06-Mar-2021|[html](/doc/dev52/XRdv400.htm) [pdf](/doc/dev52/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0)                                     |
