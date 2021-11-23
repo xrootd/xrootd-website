@@ -85,23 +85,23 @@ Yum repositories
 ----------------
 
 We build RPMs for Scientific Linux and make them available through YUM. There
-are two types of repositories: a **stable** one - containing only stable
-releases, and a **testing** one - serving also release candidates. The repo
+are three types of repositories: a **stable** one - containing only stable
+releases, a **testing** one - serving release candidates, and a **future**
+one which is the nightly build of the master branch. The repo
 files for /etc/yum.repos.d are available below:
 
 * Stable: 
-  [xrootd-stable-slc5.repo](/binaries/xrootd-stable-slc5.repo),
   [xrootd-stable-slc6.repo](/binaries/xrootd-stable-slc6.repo),
   [xrootd-stable-slc7.repo](/binaries/xrootd-stable-slc7.repo),
   [xrootd-stable-slc8.repo](/binaries/xrootd-stable-slc8.repo)
 * Testing:
-  [xrootd-testing-slc5.repo](/binaries/xrootd-testing-slc5.repo),
   [xrootd-testing-slc6.repo](/binaries/xrootd-testing-slc6.repo),
   [xrootd-testing-slc7.repo](/binaries/xrootd-testing-slc7.repo),
   [xrootd-testing-slc8.repo](/binaries/xrootd-testing-slc8.repo)
-* Experimental
+* Future:
   [xrootd-experimental-slc6.repo](/binaries/xrootd-experimental-slc6.repo),
   [xrootd-experimental-slc7.repo](/binaries/xrootd-experimental-slc7.repo)
+  [xrootd-experimental-slc8.repo](/binaries/xrootd-experimental-slc8.repo)
 * Ceph:
   [xrootd-ceph-slc7.repo](/binaries/xrootd-ceph-slc7.repo)
 
