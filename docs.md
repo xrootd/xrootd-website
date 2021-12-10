@@ -15,9 +15,9 @@ Documentation
 |:---------:|:----------------------------------------------------------------------:|------------------------------------------------------------------------------|
 |27-Jul-2018|[html](/doc/dev49/Syntax_config.htm) [pdf](/doc/dev49/Syntax_config.pdf)  |Configuration File Syntax (4.9)                                               |
 |13-Jun-2021|[html](/doc/dev53/xrd_config.htm) [pdf](/doc/dev53/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.3)                            |
-|22-Nov-2021|[html](/doc/dev54/xrd_config.htm) [pdf](/doc/dev54/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.4)                            |
+|09-Dec-2021|[html](/doc/dev54/xrd_config.htm) [pdf](/doc/dev54/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.4)                            |
 |25-Jun-2021|[html](/doc/dev53/ofs_config.htm) [pdf](/doc/dev53/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.3)      |
-|30-Jul-2021|[html](/doc/dev54/ofs_config.htm) [pdf](/doc/dev54/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.4)      |
+|08-Dec-2021|[html](/doc/dev54/ofs_config.htm) [pdf](/doc/dev54/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.4)      |
 |25-Jun-2021|[html](/doc/dev53/pss_config.htm) [pdf](/doc/dev53/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.3)    |
 |13-jun-2021|[html](/doc/dev53/cms_config.htm) [pdf](/doc/dev53/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.3)                    |
 |27-Jul-2021|[html](/doc/dev54/cms_config.htm) [pdf](/doc/dev54/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.4)                    |
