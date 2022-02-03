@@ -63,6 +63,7 @@ Presentations and papers
 
 |Date       |Files                                                                 |Description                                                       |
 |:---------:|:--------------------------------------------------------------------:|------------------------------------------------------------------|
+|02-Feb-2022|[pdf](/presentations/xrdec_atlas_swc.pdf)|XRootD EC Object Store (ATLAS Software & Computing Week @ CERN)
 |14-Dec-2020|[pdf](/presentations/GSI-XRootD-Roadmap.pdf)|XRootD Roadmap (Workshop @ GSI, Darmstadt)|
 |26-Nov-2019|[pdf](/presentations/nikolai_doma_access_26.11.2019.pdf)|Update on Xcache tests at LMU Munic (DOMA Access Meeting)|
 |11-Jun-2019|[html](https://indico.cern.ch/event/727208/other-view?view=standard)|XRootD Workshop @ CC-IN2P3, Lyon|
