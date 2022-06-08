@@ -21,6 +21,7 @@ Documentation
 |25-Jun-2021|[html](/doc/dev53/ofs_config.htm) [pdf](/doc/dev53/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.3)      |
 |08-Dec-2021|[html](/doc/dev54/ofs_config.htm) [pdf](/doc/dev54/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.4)      |
 |25-Jun-2021|[html](/doc/dev53/pss_config.htm) [pdf](/doc/dev53/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.3)    |
+|07-Jun-2022|[html](/doc/dev55/pss_config.htm) [pdf](/doc/dev55/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.5)    |
 |13-jun-2021|[html](/doc/dev53/cms_config.htm) [pdf](/doc/dev53/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.3)                    |
 |27-Jul-2021|[html](/doc/dev54/cms_config.htm) [pdf](/doc/dev54/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.4)                    |
 |17-Feb-2021|[html](/doc/dev50/sec_config.htm) [pdf](/doc/dev50/sec_config.pdf)        |Security Configuration Reference (5.0)                                         |
@@ -33,6 +34,7 @@ Documentation
 |15-Oct-2020|[html](/doc/dev50/ssi_reference-V3.htm) [pdf](/doc/dev50/ssi_reference-V3.pdf) |XRootD Scalable Service Interface Reference V3 (5.0) |
 |08-Mar-2019|[html](/doc/xrdcl-docs/www/xrdcldocs.html) [pdf](/doc/xrdcl-docs/xrdcldocs.pdf) |XRootD Client Configuration &amp; API Reference (4.9)
 |02-Aug-2021|[html](/doc/dev54/XRdv500.htm) [pdf](/doc/dev54/XRdv500.pdf)              |XRootD Protocol Reference (Version 5.0.0)                                     |
+|02-Aug-2021|[html](/doc/dev55/XRdv511.htm) [pdf](/doc/dev54/XRdv511.pdf)              |XRootD Protocol Reference (Version 5.1.1)                                     |
 |13-Apr-2020|[html](/doc/dev49/tpc_protocol.htm) [pdf](/doc/dev49/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 2)                                     |
 |05-Dec-2013|[html](http://xrootd.org/doc/doxygen/current/html/annotated.html)|Doxygen Docs|
 |26-Apr-2012|[html](http://xrootd.org/doc/python/xrootd-python/)|Python Bindings|
