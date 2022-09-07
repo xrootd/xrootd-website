@@ -39,6 +39,7 @@ Quick Links
 News
 ----
 
+ * Known [issues](news/R5.5.0-Issues.htm) in Release 5.5.0
  * Release 4.x series end of life is September 1st, 2021!
  * Software Release and Support Policy [explained](policies/SWRSP.htm)!
 
