@@ -18,6 +18,7 @@ Past Documentation
 
 |Date       |Files                                                                 |Description                                                                     |
 |:---------:|:----------------------------------------------------------------------:|------------------------------------------------------------------------------|
+|27-Jul-2018|[html](/doc/dev49/Syntax_config.htm) [pdf](/doc/dev49/Syntax_config.pdf)  |Configuration File Syntax (4.9)                                               |
 |14-Aug-2015|[html](/doc/dev42/Syntax_config.htm) [pdf](/doc/dev42/Syntax_config.pdf)  |Configuration File Syntax (4.x)                                               |
 |13-Nov-2010|[html](/doc/prod/Syntax_config.htm) [pdf](/doc/prod/Syntax_config.pdf)  |Configuration File Syntax (3.x)                                               |
 |13-Jun-2021|[html](/doc/dev53/xrd_config.htm) [pdf](/doc/dev53/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.3)                            |
@@ -28,6 +29,7 @@ Past Documentation
 |25-Nov-2015|[html](/doc/dev42/xrd_config.htm) [pdf](/doc/dev42/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.x)                            |
 |27-Oct-2017|[html](/doc/dev48/xrd_config.htm) [pdf](/doc/dev48/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (4.8)                            |
 |12-Dec-2011|[html](/doc/prod/xrd_config.htm) [pdf](/doc/prod/xrd_config.pdf)        |Xrd/XRootd Configuration Reference (3.x)                               |
+|25-Jun-2021|[html](/doc/dev53/ofs_config.htm) [pdf](/doc/dev53/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.3)      |
 |05-Apr-2021|[html](/doc/dev52/ofs_config.htm) [pdf](/doc/dev52/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.2)      |
 |20-Nov-2020|[html](/doc/dev51/ofs_config.htm) [pdf](/doc/dev51/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.1)      |
 |24-Aug-2018|[html](/doc/dev49/ofs_config.htm) [pdf](/doc/dev49/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.9)      |
@@ -60,6 +62,7 @@ get-Oct-2016|[html](/doc/dev4/tpc_protocol.htm) [pdf](/doc/dev4/tpc_protocol.pdf
 |06-Feb-2013|[html](/doc/prod/frm_config.htm) [pdf](/doc/prod/frm_config.pdf)          |File Residency Manager Reference (3.x)                                  |
 |13-Feb-2018|[html](/doc/dev49/ssi_reference-V2.htm) [pdf](/doc/dev49/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 (4.9) |
 |09-Feb-2017|[html](/doc/dev46/ssi_reference-V2.htm) [pdf](/doc/dev46/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 |
+|02-Aug-2021|[html](/doc/dev54/XRdv500.htm) [pdf](/doc/dev54/XRdv500.pdf)              |XRootD Protocol Reference (Version 5.0.0)                                     |
 |13-Jun-2021|[html](/doc/dev53/XRdv400.htm) [pdf](/doc/dev53/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0)                                     |
 |06-Mar-2021|[html](/doc/dev52/XRdv400.htm) [pdf](/doc/dev52/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0)                                     |
 |17-Dec-2018|[html](/doc/dev49/XRdv400.htm) [pdf](/doc/dev49/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0 tentative)                                     |
