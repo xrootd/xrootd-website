@@ -23,8 +23,8 @@ Documentation
 |07-Jun-2022|[html](/doc/dev55/pss_config.htm) [pdf](/doc/dev55/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.5)    |
 |13-jun-2021|[html](/doc/dev53/cms_config.htm) [pdf](/doc/dev53/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.3)                    |
 |27-Jul-2021|[html](/doc/dev54/cms_config.htm) [pdf](/doc/dev54/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.4)                    |
-|17-Feb-2021|[html](/doc/dev50/sec_config.htm) [pdf](/doc/dev50/sec_config.pdf)        |Security Configuration Reference (5.0)                                         |
 |13-Oct-2022|[html](/doc/dev54/sec_config.htm) [pdf](/doc/dev54/sec_config.pdf)        |Security Configuration Reference (5.4)                                         |
+|17-Nov-2022|[html](/doc/dev56/sec_config.htm) [pdf](/doc/dev56/sec_config.pdf)        |Security Configuration Reference (5.4)                                         |
 |21-Dec-2018|[html](/doc/gsidocs/XRootDGSIProtocolSpecifications.html) [pdf](/doc/gsidocs/XRootD-GSI-Protocol-Specifications.pdf) |XRootD GSI Protocol Specification
 |20-Aug-2020|[html](/doc/dev51/xrd_monitoring.htm) [pdf](/doc/dev51/xrd_monitoring.pdf)|System Monitoring Reference (5.1)                                           |
 |31-Mar-2022|[html](/doc/dev55/xrd_monitoring.htm) [pdf](/doc/dev55/xrd_monitoring.pdf)|System Monitoring Reference (5.5)                                           |
