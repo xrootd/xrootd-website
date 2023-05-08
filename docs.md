@@ -66,6 +66,7 @@ Presentations and papers
 
 |Date       |Files                                                                 |Description                                                       |
 |:---------:|:--------------------------------------------------------------------:|------------------------------------------------------------------|
+|27-Mar-2023|[html](https://indico.cern.ch/event/875381/timetable/#20230327.detailed|XRootD (Wed-Fri) and FTS (Mon-Wed) workshop @ JSI|
 |07-Feb-2022|[pptx](/presentations/NSDF-220207.pptx) [pdf](/presentations/NSDF-220207.pdf)|National Science Data Facility User Communitiy Meeting|
 |02-Feb-2022|[pdf](/presentations/xrdec_atlas_swc.pdf)|XRootD EC Object Store (ATLAS Software & Computing Week @ CERN)
 |14-Dec-2020|[pdf](/presentations/GSI-XRootD-Roadmap.pdf)|XRootD Roadmap (Workshop @ GSI, Darmstadt)|
