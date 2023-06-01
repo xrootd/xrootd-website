@@ -21,6 +21,7 @@ Past Documentation
 |27-Jul-2018|[html](/doc/dev49/Syntax_config.htm) [pdf](/doc/dev49/Syntax_config.pdf)  |Configuration File Syntax (4.9)                                               |
 |14-Aug-2015|[html](/doc/dev42/Syntax_config.htm) [pdf](/doc/dev42/Syntax_config.pdf)  |Configuration File Syntax (4.x)                                               |
 |13-Nov-2010|[html](/doc/prod/Syntax_config.htm) [pdf](/doc/prod/Syntax_config.pdf)  |Configuration File Syntax (3.x)                                               |
+|09-Dec-2021|[html](/doc/dev54/xrd_config.htm) [pdf](/doc/dev54/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.4)                            |
 |13-Jun-2021|[html](/doc/dev53/xrd_config.htm) [pdf](/doc/dev53/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.3)                            |
 |06-Mar-2021|[html](/doc/dev52/xrd_config.htm) [pdf](/doc/dev52/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.2)                            |
 |06-Jan-2021|[html](/doc/dev51/xrd_config.htm) [pdf](/doc/dev51/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.1)                            |
