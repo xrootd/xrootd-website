@@ -25,6 +25,5 @@ The people responsible
   security plugins
 * Andrew Hanushevsky &lt;[abh@stanford.edu](mailto:abh@stanford.edu)&gt; -
   server side software
-* Michal Simon &lt;[Michal.Simon@cern.ch](mailto:Michal.Simon@cern.ch)&gt; and
-  Elvin Alin Sindrilaru &lt;[elvin.alin.sindrilaru@cern.ch](mailto:elvin.alin.sindrilaru@cern.ch)&gt; -
+* Guilherme Amadio &lt;[guilherme.amadio@cern.ch](mailto:guilherme.amadio@cern.ch)&gt; -
   client side software
