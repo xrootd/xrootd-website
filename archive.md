@@ -65,6 +65,7 @@ get-Oct-2016|[html](/doc/dev4/tpc_protocol.htm) [pdf](/doc/dev4/tpc_protocol.pdf
 |06-Feb-2013|[html](/doc/prod/frm_config.htm) [pdf](/doc/prod/frm_config.pdf)          |File Residency Manager Reference (3.x)                                  |
 |13-Feb-2018|[html](/doc/dev49/ssi_reference-V2.htm) [pdf](/doc/dev49/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 (4.9) |
 |09-Feb-2017|[html](/doc/dev46/ssi_reference-V2.htm) [pdf](/doc/dev46/ssi_reference-V2.pdf) |XRootD Scalable Service Interface Reference V2 |
+|13-Oct-2022|[html](/doc/dev55/XRdv511.htm) [pdf](/doc/dev55/XRdv511.pdf)              |XRootD Protocol Reference (Version 5.1.1)                                     |
 |02-Aug-2021|[html](/doc/dev54/XRdv500.htm) [pdf](/doc/dev54/XRdv500.pdf)              |XRootD Protocol Reference (Version 5.0.0)                                     |
 |13-Jun-2021|[html](/doc/dev53/XRdv400.htm) [pdf](/doc/dev53/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0)                                     |
 |06-Mar-2021|[html](/doc/dev52/XRdv400.htm) [pdf](/doc/dev52/XRdv400.pdf)              |XRootD Protocol Reference (Version 4.0.0)                                     |
