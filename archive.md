@@ -57,6 +57,7 @@ Past Documentation
 |15-Oct-2014|[html](/doc/dev41/sec_config.htm) [pdf](/doc/dev41/sec_config.pdf)        |Security Configuration Reference (4.x)                                         |
 |07-Feb-2013|[html](/doc/prod/sec_config.htm) [pdf](/doc/prod/sec_config.pdf)        |Security Configuration Reference (3.xx)                                         |
 |17-Sep-2018|[html](/doc/dev44/xrd_monitoring.htm) [pdf](/doc/dev44/xrd_monitoring.pdf)|System Monitoring Reference (4.4)                                           |
+|20-Aug-2020|[html](/doc/dev51/xrd_monitoring.htm) [pdf](/doc/dev51/xrd_monitoring.pdf)|System Monitoring Reference (5.1)                                           |
 |02-Dec-2019|[html](/doc/dev50/xrd_monitoring.htm) [pdf](/doc/dev50/xrd_monitoring.pdf)|System Monitoring Reference (5.0)                                           |
 |07-Jul-2014|[html](/doc/dev4/xrd_monitoring.htm) [pdf](/doc/dev4/xrd_monitoring.pdf)|System Monitoring Reference (4.x)                                           |
 |15-Jan-2013|[html](/doc/prod/xrd_monitoring.htm) [pdf](/doc/prod/xrd_monitoring.pdf)|System Monitoring Reference (3.x)                                           |
