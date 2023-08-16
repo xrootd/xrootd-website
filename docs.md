@@ -17,6 +17,7 @@ Documentation
 |06-Apr-2022|[html](/doc/dev55/Syntax_config.htm) [pdf](/doc/dev55/Syntax_config.pdf)  |Configuration File Syntax (5.5)                                               |
 |30-Mar-2022|[html](/doc/dev55/xrd_config.htm) [pdf](/doc/dev55/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.5)                            |
 |22-May-2023|[html](/doc/dev56/xrd_config.htm) [pdf](/doc/dev56/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.6)                            |
+|15-Aug-2023|[html](/doc/dev561/xrd_config.htm) [pdf](/doc/dev561/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.6.1)                            |
 |08-Dec-2021|[html](/doc/dev54/ofs_config.htm) [pdf](/doc/dev54/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.4)      |
 |02-Jun-2023|[html](/doc/dev56/ofs_config.htm) [pdf](/doc/dev56/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.6)      |
 |07-Jun-2022|[html](/doc/dev55/pss_config.htm) [pdf](/doc/dev55/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.5)    |
