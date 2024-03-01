@@ -13,7 +13,7 @@ You can get the most recent source tree by cloning our main git repository:
 
 Please make sure to check for any [**warnings**](docs.html) about known release
 issues and other [upgrade information](docs.html) prior to installing a release.
-You can also read the [RELEASE NOTES](https://github.com/xrootd/xrootd/releases/tag/v5.6.8)
+You can also read the [RELEASE NOTES](https://github.com/xrootd/xrootd/blob/v5.6.8/docs/ReleaseNotes.txt)
 and download the source tarballs:
 
 |Date      |File                                                       |Size         |MD5 Checksum                    |Comment      |
@@ -101,44 +101,79 @@ and download the source tarballs:
 |2013-03-06|[xrootd-3.3.1.tar.gz](/download/v3.3.1/xrootd-3.3.1.tar.gz)|1816739 bytes|8389af6838df7a5d6e5f7a6d10427b9a|Version 3.3.1|
 |2013-02-18|[xrootd-3.3.0.tar.gz](/download/v3.3.0/xrootd-3.3.0.tar.gz)|1816594 bytes|37048f6c6f29e3a2398ab95c06e2a63a|Version 3.3.0|
 
-Yum repositories
-----------------
+Official RPM Repositories
+-------------------------
 
-We build RPMs for Scientific Linux and make them available through YUM. There
-are three types of repositories: a **stable** one - containing only stable
-releases, a **testing** one - serving release candidates, and a **future**
-one which is the nightly build of the master branch. The repo
-files for /etc/yum.repos.d are available below:
+We build RPMs for RHEL-based distributions and make them available through dnf/yum.
+The repo files are available at:
 
-* Stable: 
-  [xrootd-stable-slc6.repo](/binaries/xrootd-stable-slc6.repo),
-  [xrootd-stable-slc7.repo](/binaries/xrootd-stable-slc7.repo),
-  [xrootd-stable-slc8.repo](/binaries/xrootd-stable-slc8.repo)
-  [xrootd-stable-slc8strm.repo](/binaries/xrootd-stable-slc8strm.repo)
-* Testing:
-  [xrootd-testing-slc6.repo](/binaries/xrootd-testing-slc6.repo),
-  [xrootd-testing-slc7.repo](/binaries/xrootd-testing-slc7.repo),
-  [xrootd-testing-slc8.repo](/binaries/xrootd-testing-slc8.repo)
-  [xrootd-testing-slc8strm.repo](/binaries/xrootd-testing-slc8strm.repo)
-* Future:
-  [xrootd-experimental-slc6.repo](/binaries/xrootd-experimental-slc6.repo),
-  [xrootd-experimental-slc7.repo](/binaries/xrootd-experimental-slc7.repo)
-  [xrootd-experimental-slc8.repo](/binaries/xrootd-experimental-slc8.repo)
-* Ceph:
-  [xrootd-ceph-slc7.repo](/binaries/xrootd-ceph-slc7.repo)
+* RHEL RPMs: <https://cern.ch/xrootd/xrootd.repo>
+* Fedora RPMs: <https://cern.ch/xrootd/xrootd-fedora.repo>
 
-Binaries
---------
+For example, to use the official repository on Alma 9, one can fetch the
+repository with:
 
-The binaries for the supported platforms are downloadable here:
+```
+curl -L https://cern.ch/xrootd/xrootd.repo -o /etc/yum.repos.d/xrootd.repo
+```
 
-{{ "" | tar_gz_files_table }}
+Each of these repo files define four repositories, `xrootd-stable`, which
+contains stable releases, `xrootd-master`, which tracks the `master` branch
+upstream (latest patch release + patches planned for the next patch release),
+`xrootd-devel`, which tracks the `devel` branch upstream (`master` branch +
+features planned for the next minor release), and finally `xrootd-source`,
+which provides the source RPMs to allow one to download sources and patches
+for a release and build/rebuild custom RPMs locally. By default, only the
+main `xrootd-stable` repository and the `xrootd-source` repository for the
+sources are enabled. All RPMs on these repositories are signed with the
+following GPG key:
 
-Incremental builds
-------------------
-We build the repository commits incrementally and they are accessible via our
-Jenkins portal:
+* XRootD Developers (RPM Signing Key) <xrootd-dev@slac.stanford.edu>
+* Fingerprint: `B3D5 6D10 62CA 39A5 92CD 70EA E07D BF0E FD32 3FF0`
+* From: <https://xrootd.web.cern.ch/repo/RPM-GPG-KEY.txt>
 
-<a href="https://gitlab.cern.ch/dss/xrootd/pipelines">
-<img src="images/logo_gitlab.png" alt="gitlab logo" width="160" height="160" />
-</a>
+Using SRPMs to Build XRootD
+---------------------------
+
+Once the official RPM repository is configured, it is possible to download the
+latest source RPMs and rebuild it locally with yum/dnf as shown below:
+
+CentOS 7
+```
+yum install -y yum-utils
+yumdownloader --source xrootd
+sudo yum install -y centos-release-scl epel-release rpmdevtools
+rpmdev-setuptree
+sudo yum-builddep -y xrootd-*.src.rpm # the file just downloaded
+rpmbuild --rebuild --without tests xrootd-*.src.rpm
+```
+or, on Alma 9
+```
+dnf install dnf-plugins-core
+dnf download --source xrootd
+sudo dnf install -y epel-release rpmdevtools
+sudo dnf config-manager --set-enabled crb # or powertools on Alma 8
+rpmdev-setuptree
+sudo dnf builddep -y xrootd-*.src.rpm # the file just downloaded
+rpmbuild --rebuild --without tests xrootd-*.src.rpm
+```
+
+Continuous Integration Builds
+-----------------------------
+
+XRootD uses GitHub Actions and GitLab CI for continuous integration. Incremental
+builds are accessible on each of these platforms at the links below:
+
+* GitHub Actions: <https://github.com/xrootd/xrootd/actions>
+  - DEB: <https://github.com/xrootd/xrootd/actions/workflows/DEB.yml>
+  - RPM: <https://github.com/xrootd/xrootd/actions/workflows/RPM.yml>
+
+* GitLab CI: <https://gitlab.cern.ch/dss/xrootd/pipelines>
+
+Build artifacts can be downloaded from the links above for a short period before
+they expire. If you have a fork of XRootD, the builds to create DEB/RPM packages
+can also be run on demand. Please see the link below for instructions on how to
+do that:
+
+<https://docs.github.com/en/actions/using-workflows/manually-running-a-workflow>
+
