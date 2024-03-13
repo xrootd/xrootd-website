@@ -1,6 +1,9 @@
 To update the actual web pages on the web server after you push your updates:
 
-1) Login on a Linux machine (e.g. iris cluster).
+1) Login on a Linux machine that has Ruby installed (only rhel6 machines).
 
 2) Run the following command:
 /afs/slac.stanford.edu/www/projects/scalla/vol1/website-gen/bin/website-gen.sh
+
+3) It is likelythat the above will not work, so use github access:
+/afs/slac.stanford.edu/www/projects/scalla/vol1/website-gen/bin/website-gengit.sh
