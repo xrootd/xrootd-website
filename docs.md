@@ -18,7 +18,7 @@ Documentation
 |30-Mar-2022|[html](/doc/dev55/xrd_config.htm) [pdf](/doc/dev55/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.5)                            |
 |04-Dec-2023|[html](/doc/dev56/xrd_config.htm) [pdf](/doc/dev56/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.6)                            |
 |08-Dec-2021|[html](/doc/dev54/ofs_config.htm) [pdf](/doc/dev54/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.4)      |
-|02-Jun-2023|[html](/doc/dev56/ofs_config.htm) [pdf](/doc/dev56/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.6)      |
+|11-Apr-2024|[html](/doc/dev56/ofs_config.htm) [pdf](/doc/dev56/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.6)      |
 |07-Jun-2022|[html](/doc/dev55/pss_config.htm) [pdf](/doc/dev55/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.5)    |
 |04-Dec-2023|[html](/doc/dev56/pss_config.htm) [pdf](/doc/dev56/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.6)   |
 |13-jun-2021|[html](/doc/dev53/cms_config.htm) [pdf](/doc/dev53/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.3)                    |
