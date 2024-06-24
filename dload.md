@@ -118,16 +118,13 @@ repository with:
 curl -L https://cern.ch/xrootd/xrootd.repo -o /etc/yum.repos.d/xrootd.repo
 ```
 
-Each of these repo files define four repositories, `xrootd-stable`, which
-contains stable releases, `xrootd-master`, which tracks the `master` branch
-upstream (latest patch release + patches planned for the next patch release),
-`xrootd-devel`, which tracks the `devel` branch upstream (`master` branch +
-features planned for the next minor release), and finally `xrootd-source`,
-which provides the source RPMs to allow one to download sources and patches
-for a release and build/rebuild custom RPMs locally. By default, only the
-main `xrootd-stable` repository and the `xrootd-source` repository for the
-sources are enabled. All RPMs on these repositories are signed with the
-following GPG key:
+Each of these repo files define three repositories: `xrootd-stable`, which
+contains stable releases, `xrootd-testing`, which tracks the `devel` branch
+upstream, and `xrootd-source`, which provides the source RPMs to allow one to
+download sources and patches for a release and build/rebuild custom RPMs
+locally. By default, only the main `xrootd-stable` repository and the
+`xrootd-source` repository for the sources are enabled. All RPMs on these
+repositories are signed with the following GPG key:
 
 * XRootD Developers (RPM Signing Key) <xrootd-dev@slac.stanford.edu>
 * Fingerprint: `B3D5 6D10 62CA 39A5 92CD 70EA E07D BF0E FD32 3FF0`
@@ -158,6 +155,46 @@ rpmdev-setuptree
 sudo dnf builddep -y xrootd-*.src.rpm # the file just downloaded
 rpmbuild --rebuild --without tests xrootd-*.src.rpm
 ```
+
+Building RPM packages using `xrootd.spec`
+-----------------------------------------
+
+There are two main methods for building RPMs using the `xrootd.spec` file at
+the root of the XRootD git repository. If you just would like to build the
+latest release, the steps are as shown below (using Alma 9 as example):
+
+```
+curl -L https://github.com/xrootd/xrootd/raw/master/xrootd.spec -o xrootd.spec
+sudo dnf install -y epel-release rpmdevtools dnf-plugins-core # install pre-requisites
+sudo dnf config-manager --set-enabled crb     # enable crb repository by default
+rpmdev-setuptree                              # create ~/rpmbuild and subdirectories
+sudo dnf builddep -y xrootd.spec              # install XRootD build dependencies
+spectool -g -R xrootd.spec                    # download upstream source tarball
+rpmbuild -bb --without tests xrootd.spec      # build RPMs
+sudo dnf install -y ~/rpmbuild/RPMS/*/*.rpm   # install RPMs
+```
+
+Note that most steps can be performed as a regular user, only installation of
+dependencies needs to be done as `root`.
+
+The other method allows to build RPMs for the currently checked out git branch.
+In this case, we should produce a tarball ourselves, and then use `--with git`
+to build:
+
+```
+git clone https://github.com/xrootd/xrootd
+cd xrootd
+rpmdev-setuptree
+git archive --prefix xrootd/ -o $(rpm -E '%{_sourcedir}')/xrootd.tar.gz HEAD
+sudo dnf builddep -y xrootd.spec
+rpmbuild -bb --with git xrootd.spec
+sudo dnf install -y ~/rpmbuild/RPMS/*/*.rpm
+```
+
+This is the method used in the continuous integration system to build RPMs.
+The versions created when building in this mode are based on the last tag,
+the number of commits that come after it, and a git hash corresponding to
+the last commit in the branch.
 
 Continuous Integration Builds
 -----------------------------
