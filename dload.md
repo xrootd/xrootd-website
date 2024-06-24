@@ -196,6 +196,60 @@ The versions created when building in this mode are based on the last tag,
 the number of commits that come after it, and a git hash corresponding to
 the last commit in the branch.
 
+Official DEB Repositories
+-------------------------
+
+We build official DEB packages for Debian and Ubuntu distributions. If you
+would like to use our repositories to get more recent versions of XRootD on
+your distribution, please see below how to enable it.
+
+First, the GPG key used to sign the repositories needs to be installed, to
+allow `apt` to trust our repository. We sign the DEB packages with the same
+key used for RPMs. To install it, simply download the public key and place
+it into `/etc/apt/trusted.gpd.d/`:
+
+```
+curl -L https://xrootd.web.cern.ch/repo/RPM-GPG-KEY.txt -o /etc/apt/trusted.gpg.d/xrootd.asc
+```
+
+Note that the extension `.asc` is important here. If you do not use this
+extension, `apt` may try to process the key as binary instead of ASCII armored
+text.
+
+Next, you need to choose the right repository URL and component to use. We
+provide repositories for Debian 11 (bullseye), Debian 12 (bookworm), Ubuntu
+22.04 (jammy), and Ubuntu 24.04 (noble). Similarly to our RPM repositories, we
+offer two repositories: `stable` and `testing`. The `stable` repository (i.e.
+the apt component) contains XRootD stable releases and should be the preferred
+option. The `testing` repository contains development versions of XRootD based
+on the `devel` branch from git. To setup the repository on Debian 12, using the
+`stable` component, you can run
+
+```
+echo "deb https://xrootd.web.cern.ch/debian bookworm stable" >> /etc/apt/sources.list.d/xrootd.list
+```
+
+On Ubuntu 24.04, run the following instead
+
+```
+echo "deb https://xrootd.web.cern.ch/ubuntu noble stable" >> /etc/apt/sources.list.d/xrootd.list
+```
+
+Depending on the distribution, you may need to use the file `/etc/apt/sources.list`
+instead of using the directory `/etc/apt/sources.list.d`. Nevertheless, the line to
+be added is the same as in the command above.
+
+Once the repository is setup, one can install the packages as usual:
+
+```
+apt update
+apt install xrootd-client xrootd-server python3-xrootd
+```
+
+Starting with XRootD 5.7.0, the official repositories also offer a metapackage
+`xrootd` which will install both `xrootd-client` and `xrootd-server` together.
+
+
 Continuous Integration Builds
 -----------------------------
 
