@@ -15,8 +15,8 @@ Documentation
 |:---------:|:----------------------------------------------------------------------:|------------------------------------------------------------------------------|
 |22-Apr-2022|[html](https://xrootd-howto.readthedocs.io/en/latest/) |XRootD How To: Explanations and examples on how to configure complicated stuff.  |
 |06-Apr-2022|[html](/doc/dev55/Syntax_config.htm) [pdf](/doc/dev55/Syntax_config.pdf)  |Configuration File Syntax (5.5)                                               |
-|30-Mar-2022|[html](/doc/dev55/xrd_config.htm) [pdf](/doc/dev55/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.5)                            |
 |04-Dec-2023|[html](/doc/dev56/xrd_config.htm) [pdf](/doc/dev56/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.6)                            |
+|12-Jul-2024|[html](/doc/dev57/xrd_config.htm) [pdf](/doc/dev57/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.7)                            |
 |08-Dec-2021|[html](/doc/dev54/ofs_config.htm) [pdf](/doc/dev54/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.4)      |
 |11-Apr-2024|[html](/doc/dev56/ofs_config.htm) [pdf](/doc/dev56/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.6)      |
 |07-Jun-2022|[html](/doc/dev55/pss_config.htm) [pdf](/doc/dev55/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.5)    |
@@ -26,8 +26,8 @@ Documentation
 |13-Oct-2022|[html](/doc/dev54/sec_config.htm) [pdf](/doc/dev54/sec_config.pdf)        |Security Configuration Reference (5.4)                                         |
 |04-dec-2023|[html](/doc/dev56/sec_config.htm) [pdf](/doc/dev56/sec_config.pdf)        |Security Configuration Reference (5.6)                                         |
 |21-Dec-2018|[html](/doc/gsidocs/XRootDGSIProtocolSpecifications.html) [pdf](/doc/gsidocs/XRootD-GSI-Protocol-Specifications.pdf) |XRootD GSI Protocol Specification
-|31-Mar-2022|[html](/doc/dev55/xrd_monitoring.htm) [pdf](/doc/dev55/xrd_monitoring.pdf)|System Monitoring Reference (5.5)                                           |
 |31-Jan-2024|[html](/doc/dev56/xrd_monitoring.htm) [pdf](/doc/dev56/xrd_monitoring.pdf)|System Monitoring Reference (5.6)                                           |
+|19-Mar-2024|[html](/doc/dev57/xrd_monitoring.htm) [pdf](/doc/dev57/xrd_monitoring.pdf)|System Monitoring Reference (5.7)                                           |
 |23-Jun-2020|[html](/doc/dev50/frm_config.htm) [pdf](/doc/dev50/frm_config.pdf)        |File Residency Manager Reference (5.x)                                  |
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
 |15-Oct-2020|[html](/doc/dev50/ssi_reference-V3.htm) [pdf](/doc/dev50/ssi_reference-V3.pdf) |XRootD Scalable Service Interface Reference V3 (5.0) |
