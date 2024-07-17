@@ -21,8 +21,8 @@ Documentation
 |11-Apr-2024|[html](/doc/dev56/ofs_config.htm) [pdf](/doc/dev56/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.6)      |
 |07-Jun-2022|[html](/doc/dev55/pss_config.htm) [pdf](/doc/dev55/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.5)    |
 |04-Dec-2023|[html](/doc/dev56/pss_config.htm) [pdf](/doc/dev56/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.6)   |
-|13-jun-2021|[html](/doc/dev53/cms_config.htm) [pdf](/doc/dev53/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.3)                    |
 |27-Jul-2021|[html](/doc/dev54/cms_config.htm) [pdf](/doc/dev54/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.4)                    |
+|16-Jul-2024|[html](/doc/dev57/cms_config.htm) [pdf](/doc/dev57/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.7)                    |
 |13-Oct-2022|[html](/doc/dev54/sec_config.htm) [pdf](/doc/dev54/sec_config.pdf)        |Security Configuration Reference (5.4)                                         |
 |04-dec-2023|[html](/doc/dev56/sec_config.htm) [pdf](/doc/dev56/sec_config.pdf)        |Security Configuration Reference (5.6)                                         |
 |21-Dec-2018|[html](/doc/gsidocs/XRootDGSIProtocolSpecifications.html) [pdf](/doc/gsidocs/XRootD-GSI-Protocol-Specifications.pdf) |XRootD GSI Protocol Specification
