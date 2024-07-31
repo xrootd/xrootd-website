@@ -32,8 +32,8 @@ Documentation
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
 |15-Oct-2020|[html](/doc/dev50/ssi_reference-V3.htm) [pdf](/doc/dev50/ssi_reference-V3.pdf) |XRootD Scalable Service Interface Reference V3 (5.0) |
 |22-Sep-2022|[html](/doc/xrdcl-docs/www/xrdcldocs.html) [pdf](/doc/xrdcl-docs/xrdcldocs.pdf) |XRootD Client Configuration &amp; API Reference (4.9)
-|13-Oct-2022|[html](/doc/dev55/XRdv511.htm) [pdf](/doc/dev55/XRdv511.pdf)              |XRootD Protocol Reference (Version 5.1.1)                                     |
 |04-Dec-2023|[html](/doc/dev56/XRdv520.htm) [pdf](/doc/dev56/XRdv520.pdf)              |XRootD Protocol Reference (Version 5.2.0)                                     |
+|30-Jul-2024|[html](/doc/dev6/XRdv520.htm) [pdf](/doc/dev6/XRdv520.pdf)              |XRootD Protocol Reference (Version 5.2.0)                                     |
 |13-Apr-2020|[html](/doc/dev49/tpc_protocol.htm) [pdf](/doc/dev49/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 2)                                     |
 |11-Dec-2023|[html](/doc/doxygen/5.6.4/html/annotated.html)|XRootD 5.6.4 Doxygen Docs|
 |11-Dec-2023|[html](/doc/doxygen/5.6.4/python/)|XRootD 5.6.4 Python Bindings Docs|
