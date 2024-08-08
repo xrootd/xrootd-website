@@ -5,7 +5,7 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <link type="text/css" media="screen" rel="stylesheet" href="/style.css" />
+  <link type="text/css" media="screen" rel="stylesheet" href="{{ '/style.css' | relative_url }}" />
   <title>{% if page.title %} {{ page.title }} | {% endif %} XRootD</title>
   <link rel="alternate" type="application/rss+xml" href="http://xrootd.org/rss.xml" title="New from the XRootD project" />
 </head>
@@ -19,25 +19,25 @@
   </div>
 
   <ul id="tabnav">
-    <li><a href="/index.html"
+    <li><a href="{{ '/index.html' | relative_url }}"
         {% if page.tab == "home" %} class="active" {% endif %}>
         home</a></li>
-    <li><a href="/dload.html"
+    <li><a href="{{ '/dload.html' | relative_url }}"
         {% if page.tab == "download" %} class="active" {% endif %}>
         download</a></li>
-    <li><a href="/docs.html"
+    <li><a href="{{ '/docs.html' | relative_url }}"
         {% if page.tab == "docs" %} class="active" {% endif %}>
         docs</a></li>
-    <li><a href="/development.html"
+    <li><a href="{{ '/development.html' | relative_url }}"
         {% if page.tab == "development" %} class="active" {% endif %}>
         development</a></li>
-    <li><a href="/collaboration.html"
+    <li><a href="{{ '/collaboration.html' | relative_url }}"
         {% if page.tab == "collaboration" %} class="active" {% endif %}>
         collaboration</a></li>
-    <li><a href="/contact.html"
+    <li><a href="{{ '/contact.html' | relative_url }}"
         {% if page.tab == "contact" %} class="active" {% endif %}>
         contact</a></li>
-    <li><a href="/archive.html"
+    <li><a href="{{ '/archive.html' | relative_url }}"
         {% if page.tab == "archive" %} class="active" {% endif %}>
         archive</a></li>
   </ul>
