@@ -24,10 +24,10 @@ Documentation
 |27-Jul-2021|[html](/doc/dev54/cms_config.htm) [pdf](/doc/dev54/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.4)                    |
 |16-Jul-2024|[html](/doc/dev57/cms_config.htm) [pdf](/doc/dev57/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.7)                    |
 |13-Oct-2022|[html](/doc/dev54/sec_config.htm) [pdf](/doc/dev54/sec_config.pdf)        |Security Configuration Reference (5.4)                                         |
-|04-dec-2023|[html](/doc/dev56/sec_config.htm) [pdf](/doc/dev56/sec_config.pdf)        |Security Configuration Reference (5.6)                                         |
+|02-Sep-2024|[html](/doc/dev56/sec_config.htm) [pdf](/doc/dev56/sec_config.pdf)        |Security Configuration Reference (5.6)                                         |
 |21-Dec-2018|[html](/doc/gsidocs/XRootDGSIProtocolSpecifications.html) [pdf](/doc/gsidocs/XRootD-GSI-Protocol-Specifications.pdf) |XRootD GSI Protocol Specification
 |31-Jan-2024|[html](/doc/dev56/xrd_monitoring.htm) [pdf](/doc/dev56/xrd_monitoring.pdf)|System Monitoring Reference (5.6)                                           |
-|19-Mar-2024|[html](/doc/dev57/xrd_monitoring.htm) [pdf](/doc/dev57/xrd_monitoring.pdf)|System Monitoring Reference (5.7)                                           |
+|08-Mar-2024|[html](/doc/dev57/xrd_monitoring.htm) [pdf](/doc/dev57/xrd_monitoring.pdf)|System Monitoring Reference (5.7)                                           |
 |23-Jun-2020|[html](/doc/dev50/frm_config.htm) [pdf](/doc/dev50/frm_config.pdf)        |File Residency Manager Reference (5.x)                                  |
 |11-Feb-2011|[html](/doc/prod/frm_migr.htm) [pdf](/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces                          |
 |15-Oct-2020|[html](/doc/dev50/ssi_reference-V3.htm) [pdf](/doc/dev50/ssi_reference-V3.pdf) |XRootD Scalable Service Interface Reference V3 (5.0) |
