@@ -28,7 +28,7 @@ Quick Links
    GNU LGPL License
  * [Policies](policies/SWRSP.htm) - Software Release and Support Policy
  * [WLCG Privacy Notice](https://wlcg-docs.web.cern.ch/policy/data_privacy/WLCGPrivacyNotice2022.pdf) - recommended privacy policy for sites using XRootD
- * [Scalla-Intro.pdf](/papers/Scalla-Intro.pdf) - an overview of the xrootd
+ * [Scalla-Intro.pdf]({{ site.url }}/papers/Scalla-Intro.pdf) - an overview of the xrootd
    system
  * {{ "" | latest_release_url }} - the latest version of the software
  * [Release Notes](https://github.com/xrootd/xrootd/releases) - a list of significant changes

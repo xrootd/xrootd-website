@@ -11,7 +11,7 @@ below for the source and the RPMs. Please note that the RPMs have been
 moved to the new stable yum repositories and are no longer pushed into
 the old storage-ci repository.
 
- * Source: <https://xrootd.slac.stanford.edu/download/v5.6.4/xrootd-5.6.4.tar.gz>
+ * Source: <{{ site.url }}/download/v5.6.4/xrootd-5.6.4.tar.gz>
  * RHEL RPMs: <https://cern.ch/xrootd/xrootd.repo>
  * Fedora RPMs: <https://cern.ch/xrootd/xrootd-fedora.repo>
  * Release Notes: <https://github.com/xrootd/xrootd/releases/tag/v5.6.4>
