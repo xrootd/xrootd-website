@@ -13,11 +13,12 @@ You can get the most recent source tree by cloning our main git repository:
 
 Please make sure to check for any [**warnings**](docs.html) about known release
 issues and other [upgrade information](docs.html) prior to installing a release.
-You can also read the [RELEASE NOTES](https://github.com/xrootd/xrootd/blob/v5.7.1/docs/ReleaseNotes.txt)
+You can also read the [RELEASE NOTES](https://github.com/xrootd/xrootd/blob/v5.7.2/docs/ReleaseNotes.txt)
 and download the source tarballs:
 
 |Date      |File                                                       |Size         |MD5 Checksum                    |Comment      |
 |:--------:|:---------------------------------------------------------:|:-----------:|:------------------------------:|:-----------:|
+|2024-11-29|[xrootd-5.7.2.tar.gz]({{ site.url }}/download/v5.7.2/xrootd-5.7.2.tar.gz)|6826940 bytes|17f6b33e19145ab02ec8bccdd5175543|Version 5.7.2|
 |2024-09-03|[xrootd-5.7.1.tar.gz]({{ site.url }}/download/v5.7.1/xrootd-5.7.1.tar.gz)|6819353 bytes|52599e6df09016998c09d00115cb5852|Version 5.7.1|
 |2024-07-01|[xrootd-5.7.0.tar.gz]({{ site.url }}/download/v5.7.0/xrootd-5.7.0.tar.gz)|6807467 bytes|68af782e310c7b6cccf589479de14e34|Version 5.7.0|
 |2024-03-08|[xrootd-5.6.9.tar.gz]({{ site.url }}/download/v5.6.9/xrootd-5.6.9.tar.gz)|6701277 bytes|48a3fe6e8768305b742dd2d08404114c|Version 5.6.9|
