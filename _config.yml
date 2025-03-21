@@ -1,6 +1,6 @@
 markdown: kramdown
 site_root: /afs/slac.stanford.edu/www/projects/scalla
-latest_release: 5.7.3
-latest_release_tar_gz: 5.7.3
+latest_release: 5.8.0
+latest_release_tar_gz: 5.8.0
 
 url: https://xrootd.web.cern.ch
