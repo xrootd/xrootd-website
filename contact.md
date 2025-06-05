@@ -9,7 +9,7 @@ User support and bug reports
 
 You can contact the **xrootd-l** mailing list if you have any questions
 concerning the xrootd software. The archive of the list is available
-[here](https://listserv.slac.stanford.edu/cgi-bin/wa?A0=XROOTD-L)
+[here](https://listserv.slac.stanford.edu/scripts/wa.exe?A0=xrootd-l)
 . To subscribe to the list you should send a one-line email to
 **listserv@slac.stanford.edu** with the following line in the message
 body:
