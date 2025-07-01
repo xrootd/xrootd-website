@@ -35,8 +35,8 @@ Documentation
 |04-Dec-2023|[html]({{ site.url }}/doc/dev56/XRdv520.htm) [pdf]({{ site.url }}/doc/dev56/XRdv520.pdf)              |XRootD Protocol Reference (Version 5.2.0)                                     |
 |30-Jul-2024|[html]({{ site.url }}/doc/dev6/XRdv520.htm) [pdf]({{ site.url }}/doc/dev6/XRdv520.pdf)              |XRootD Protocol Reference (Version 5.2.0)                                     |
 |13-Apr-2020|[html]({{ site.url }}/doc/dev49/tpc_protocol.htm) [pdf]({{ site.url }}/doc/dev49/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 2)                                     |
-|11-Dec-2023|[html]({{ site.url }}/doc/doxygen/5.6.4/html/annotated.html)|XRootD 5.6.4 Doxygen Docs|
-|11-Dec-2023|[html]({{ site.url }}/doc/doxygen/5.6.4/python/)|XRootD 5.6.4 Python Bindings Docs|
+|11-Dec-2023|[html]({{ site.url }}/doc/doxygen/current/index.html)|XRootD Doxygen Docs|
+|11-Dec-2023|[html]({{ site.url }}/doc/python/latest)|XRootD Python Bindings Docs|
 
 Man pages
 ---------
