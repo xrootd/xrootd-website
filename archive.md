@@ -21,6 +21,7 @@ Past Documentation
 |27-Jul-2018|[html]({{ site.url }}/doc/dev49/Syntax_config.htm) [pdf]({{ site.url }}/doc/dev49/Syntax_config.pdf)  |Configuration File Syntax (4.9)                                               |
 |14-Aug-2015|[html]({{ site.url }}/doc/dev42/Syntax_config.htm) [pdf]({{ site.url }}/doc/dev42/Syntax_config.pdf)  |Configuration File Syntax (4.x)                                               |
 |13-Nov-2010|[html]({{ site.url }}/doc/prod/Syntax_config.htm) [pdf]({{ site.url }}/doc/prod/Syntax_config.pdf)  |Configuration File Syntax (3.x)                                               |
+|04-Dec-2023|[html]({{ site.url }}/doc/dev56/xrd_config.htm) [pdf]({{ site.url }}/doc/dev56/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.6)                            |
 |30-Mar-2022|[html]({{ site.url }}/doc/dev55/xrd_config.htm) [pdf]({{ site.url }}/doc/dev55/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.5)                            |
 |09-Dec-2021|[html]({{ site.url }}/doc/dev54/xrd_config.htm) [pdf]({{ site.url }}/doc/dev54/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.4)                            |
 |13-Jun-2021|[html]({{ site.url }}/doc/dev53/xrd_config.htm) [pdf]({{ site.url }}/doc/dev53/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.3)                            |
@@ -58,6 +59,7 @@ Past Documentation
 |09-Oct-2016|[html]({{ site.url }}/doc/dev45/sec_config.htm) [pdf]({{ site.url }}/doc/dev45/sec_config.pdf)        |Security Configuration Reference (4.5)                                         |
 |15-Oct-2014|[html]({{ site.url }}/doc/dev41/sec_config.htm) [pdf]({{ site.url }}/doc/dev41/sec_config.pdf)        |Security Configuration Reference (4.x)                                         |
 |07-Feb-2013|[html]({{ site.url }}/doc/prod/sec_config.htm) [pdf]({{ site.url }}/doc/prod/sec_config.pdf)        |Security Configuration Reference (3.xx)                                         |
+|31-Jan-2024|[html]({{ site.url }}/doc/dev56/xrd_monitoring.htm) [pdf]({{ site.url }}/doc/dev56/xrd_monitoring.pdf)|System Monitoring Reference (5.6)                                           |
 |31-Mar-2022|[html]({{ site.url }}/doc/dev55/xrd_monitoring.htm) [pdf]({{ site.url }}/doc/dev55/xrd_monitoring.pdf)|System Monitoring Reference (5.5)                                           |
 |20-Aug-2020|[html]({{ site.url }}/doc/dev51/xrd_monitoring.htm) [pdf]({{ site.url }}/doc/dev51/xrd_monitoring.pdf)|System Monitoring Reference (5.1)                                           |
 |17-Sep-2018|[html]({{ site.url }}/doc/dev44/xrd_monitoring.htm) [pdf]({{ site.url }}/doc/dev44/xrd_monitoring.pdf)|System Monitoring Reference (4.4)                                           |
