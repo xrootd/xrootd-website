@@ -38,6 +38,7 @@ Past Documentation
 |24-Aug-2018|[html]({{ site.url }}/doc/dev49/ofs_config.htm) [pdf]({{ site.url }}/doc/dev49/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.9)      |
 |27-Oct-2017|[html]({{ site.url }}/doc/dev48/ofs_config.htm) [pdf]({{ site.url }}/doc/dev48/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (4.8)      |
 |20-Jun-2012|[html]({{ site.url }}/doc/prod/ofs_config.htm) [pdf]({{ site.url }}/doc/prod/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (3.x)      |
+|07-Jun-2022|[html]({{ site.url }}/doc/dev55/pss_config.htm) [pdf]({{ site.url }}/doc/dev55/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.5)    |
 |25-Jun-2021|[html]({{ site.url }}/doc/dev53/pss_config.htm) [pdf]({{ site.url }}/doc/dev53/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.3)    |
 |11-Nov-2020|[html]({{ site.url }}/doc/dev51/pss_config.htm) [pdf]({{ site.url }}/doc/dev51/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.1)    |
 |24-Aug-2020|[html]({{ site.url }}/doc/dev50/pss_config.htm) [pdf]({{ site.url }}/doc/dev50/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.0)    |
